@@ -1,0 +1,629 @@
+key,value,collectionId,class,entryId
+csp-report.blocked-uri,https://www.walmart.com/akam/13/6237d791,X6rSgyKETB9BsCCYnl1hi,other,ST9vglGcSeNwAepH9YNoU,ST9vglGcSeNwAepH9YNoU
+csp-report.disposition,enforce,X6rSgyKETB9BsCCYnl1hi,other,nuoHx-SxhTbio-oH1Cr_k
+csp-report.document-uri,https://www.walmart.com/,X6rSgyKETB9BsCCYnl1hi,other,JnOsOIMjxuQsXgaYIxvOo
+csp-report.effective-directive,script-src-elem,X6rSgyKETB9BsCCYnl1hi,other,CHfufDMN-s7JdvJG4Ghu4
+csp-report.original-policy,default-src 'self' *.walmartimages.com; script-src 'self' 'strict-dynamic' drfdisvc.walmart.com cdn.quantummetric.com *.px-cloud.net *.wal.co *.developer.walmart.com beacon.walmart.com i5.walmartimages.com www.recaptcha.net connect.facebook.net maps.googleapis.com *.zeekit.me zeekit.me qa.zeekit.walmart.com zeekit.walmart.com cdn.cs.1worldsync.com cc.cs.1worldsync.com ws.cnetcontent.com ccsprodus1.blob.core.windows.net salsify-ecdn.com www.ezdia.com cdn.richcontext.com media.flixcar.com media.flixfacts.com *.flix360.io *.flix360.com d3np41mctoibfu.cloudfront.net d3nkfb7815bs43.cloudfront.net content.jwplatform.com assets-jpcust.jwpsrv.com ssl.p.jwpcdn.com *.buywith.com *.talkshop.live wss://api.talkshop.live *.salsify.com ls.chatid.com *.cloudinary.com assets.optiwise.ai *.syndigo.com *.syndigo.cloud rackcdn.com media.sku.ninja *.ksckreate.net *.cnetcontent.com *.1worldsync.com 'nonce-48uKzSnpeaHfgpyt'; style-src 'self' 'unsafe-inline' *.walmartimages.com *.wal.co walmart.sspinc.io *.stylitics.com https://www-qa.walmart.com.mx cdn.cs.1worldsync.com cc.cs.1worldsync.com ws.cnetcontent.com ccsprodus1.blob.core.windows.net salsify-ecdn.com www.ezdia.com media.flixcar.com media.flixfacts.com *.flix360.io *.flix360.com d3np41mctoibfu.cloudfront.net d3nkfb7815bs43.cloudfront.net content.jwplatform.com assets-jpcust.jwpsrv.com ssl.p.jwpcdn.com *.buywith.com fonts.googleapis.com *.salsify.com ls.chatid.com *.cloudinary.com assets.optiwise.ai *.syndigo.com *.syndigo.cloud rackcdn.com media.sku.ninja *.ksckreate.net *.cnetcontent.com *.1worldsync.com; font-src 'self' i5.walmartimages.com *.wal.co fonts.gstatic.com fonts.googleapis.com *.buywith.com cdn.cs.1worldsync.com cc.cs.1worldsync.com ws.cnetcontent.com ccsprodus1.blob.core.windows.net salsify-ecdn.com www.ezdia.com media.flixcar.com media.flixfacts.com *.flix360.io *.flix360.com d3np41mctoibfu.cloudfront.net d3nkfb7815bs43.cloudfront.net content.jwplatform.com assets-jpcust.jwpsrv.com ssl.p.jwpcdn.com *.salsify.com ls.chatid.com *.cloudinary.com assets.optiwise.ai *.syndigo.com *.syndigo.cloud rackcdn.com media.sku.ninja *.ksckreate.net *.cnetcontent.com *.1worldsync.com; img-src 'self' *.walmartimages.com *.online-metrix.net drfdisvc.walmart.com tpc.googlesyndication.com crs.midas.stg.prod.us.walmart.net wrd.walmart.com receipts-query.edge.walmart.com receipts-query-wm-stg0.edge.walmart.com data: *.wal.co www.facebook.com cyborg-wm-auth-service-v2.jet.com maps.googleapis.com securepubads.g.doubleclick.net ad.doubleclick.net *.doubleverify.com static.adsafeprotected.com pixel.adsafeprotected.com *.imrworldwide.com ir.surveywall-api.survata.com cdn.doubleverify.com s0.2mdn.net advertising.walmart.com beacon-wmt.walmart.com www.gstatic.com *.px-cloud.net *.px-cdn.net beacon.walmart.com *.stylitics.com 1d81e75c4337a6e2e3c2-4a69748413de5fcbd7a7a944817c2356.ssl.cf1.rackcdn.com *.doubleclick.net gum.criteo.com ib.adnxs.com tap.walmart.com dw.wmt.co idsync.rlcdn.com i.liadm.com beacon.walmart.com t.myvisualiq.net us.creativecdn.com ads01.groovinads.com i6.liadm.com secure.adnxs.com azmatch.adsrvr.org sync.mathtag.com c.bing.com beacon.classrooms.walmart.com beacon.savingscatcher.walmart.com beacon.stage.walmart.com beacon.affil.walmart.com beacon.beta.walmart.com beacon.photos.walmart.com dw.wmt.co beacon-internal.walmart.com beacon.beta-game.walmart.com cdn-assets.affirm.com res.cloudinary.com *.zeekit.me zeekit.me qa.zeekit.walmart.com zeekit.walmart.com maps.gstatic.com wallet.walmart.com *.paypal.com cdn.cs.1worldsync.com cc.cs.1worldsync.com cdn.cnetcontent.com ws.cnetcontent.com ccsprodus1.blob.core.windows.net salsify-ecdn.com www.ezdia.com media.flixcar.com media.flixfacts.com *.flix360.io *.flix360.com d3np41mctoibfu.cloudfront.net d3nkfb7815bs43.cloudfront.net content.jwplatform.com assets-jpcust.jwpsrv.com ssl.p.jwpcdn.com content.syndigo.com images.salsify.com smedia.webcollage.net a.sellpoint.net salsify.com *.salsify.com ls.chatid.com player.cloudinary.com media.sku.ninja rackcdn.com cdn.cs.1worldsync.com cdn.cnetcontent.com cc.cnetcontent.com cc.cs.1worldsync.com akamai.ksckreate.net *.buywith.com *.talkshop.live talkshop.live wss://api.talkshop.live *.salsify.com ls.chatid.com *.cloudinary.com assets.optiwise.ai *.syndigo.com *.syndigo.cloud rackcdn.com media.sku.ninja *.ksckreate.net *.cnetcontent.com *.1worldsync.com www.walmart.com; connect-src 'self' *.walmartimages.com walmart.sspinc.io c.sspinc.io fitpredictor-api.sspinc.io *.stylitics.com beacon.walmart.com *.developer.walmart.com *.px-cloud.net *.px-cdn.net *.pxchk.net *.perimeterx.net drfdisvc.walmart.com walmart-sync.quantummetric.com quimby.mobile.walmart.com csp.walmart.com *.wal.co www.facebook.com directline.botframework.com wss://directline.botframework.com chat-qa.walmart.com walmart-sync.quantummetric.com tps.doubleverify.com stats.g.doubleclick.net www.google.com spendanalyzer-proxy.dev.walmart.com tax-app.prod.pgtax.tax.prod.walmart.com *.doubleclick.net gum.criteo.com ib.adnxs.com tap.walmart.com dw.wmt.co idsync.rlcdn.com i.liadm.com beacon.walmart.com t.myvisualiq.net us.creativecdn.com ads01.groovinads.com i6.liadm.com secure.adnxs.com azmatch.adsrvr.org sync.mathtag.com c.bing.com beacon.classrooms.walmart.com beacon.savingscatcher.walmart.com beacon.stage.walmart.com beacon.affil.walmart.com beacon.beta.walmart.com beacon.photos.walmart.com dw.wmt.co beacon-internal.walmart.com beacon.beta-game.walmart.com identity.walmart.com cdn-assets.affirm.com anivia-star.mobile.walmart.com maps.googleapis.com *.zeekit.me zeekit.me qa.zeekit.walmart.com zeekit.walmart.com maps.gstatic.com *.buywith.com wss://us.server.buywith.com *.talkshop.live wss://api.talkshop.live *.quantummetric.com api.bazaarvoice.com api.waiting-room.walmart.com developer.api.us.walmart.com *.salsify.com ls.chatid.com *.cloudinary.com assets.optiwise.ai *.syndigo.com *.syndigo.cloud rackcdn.com media.sku.ninja *.ksckreate.net *.cnetcontent.com *.1worldsync.com; object-src drfdisvc.walmart.com; frame-src 'self' *.walmartimages.com adclick.g.doubleclick.net drfdisvc.walmart.com *.quantummetric.com tap.walmart.com www.facebook.com www.recaptcha.net wallet.walmart.com tpc.googlesyndication.com *.online-metrix.net www.google.com *.vimeo.com vimeo.com identity.walmart.com wallet.walmart.com *.affirm.com *.eko.com *.shopstylecollective.com ln-rules.rewardstyle.com *.babylist.com cdn.cs.1worldsync.com cc.cs.1worldsync.com ws.cnetcontent.com ccsprodus1.blob.core.windows.net salsify-ecdn.com www.ezdia.com *.countr.one *.onefinance.com *.buywith.com wrd.walmart.com *.talkshop.live wss://api.talkshop.live dev.walmart.com:4200 dev.walmart.com:4300 *.salsify.com ls.chatid.com *.cloudinary.com assets.optiwise.ai *.syndigo.com *.syndigo.cloud rackcdn.com media.sku.ninja *.ksckreate.net *.cnetcontent.com *.1worldsync.com; frame-ancestors 'self' www.walmart.com preview.cxtools.walmart.com wallet.walmart.com dev.walmart.com:4200 dev.walmart.com:4300; media-src cyborg-wm-auth-service-v2.jet.com advertising.walmart.com *.walmartimages.com *.vimeo.com *.vimeocdn.com *.akamaized.net vimeo.com content.syndigo.com images.salsify.com 1d81e75c4337a6e2e3c2-4a69748413de5fcbd7a7a944817c2356.ssl.cf1.rackcdn.com a.sellpoint.net cdn-azure.kwikee.com akamai.ksckreate.net cdn.cnetcontent.com ca-media.contentanalyticsinc.com cc.cnetcontent.com *.buywith.com cdn.cs.1worldsync.com cc.cs.1worldsync.com ws.cnetcontent.com ccsprodus1.blob.core.windows.net salsify-ecdn.com www.ezdia.com media.flixcar.com media.flixfacts.com *.flix360.io *.flix360.com d3np41mctoibfu.cloudfront.net d3nkfb7815bs43.cloudfront.net content.jwplatform.com assets-jpcust.jwpsrv.com ssl.p.jwpcdn.com *.salsify.com ls.chatid.com *.cloudinary.com assets.optiwise.ai *.syndigo.com *.syndigo.cloud rackcdn.com media.sku.ninja *.ksckreate.net *.cnetcontent.com *.1worldsync.com; report-uri https://csp.walmart.com/c/r/gl,X6rSgyKETB9BsCCYnl1hi,other,4GCDglziUShjSDi559rJ9
+csp-report.referrer,,X6rSgyKETB9BsCCYnl1hi,other,FNyFlYghqXmP4WrS8n-rm
+csp-report.script-sample,,X6rSgyKETB9BsCCYnl1hi,other,S0aqDlbwG1hepb8cWUWJX
+csp-report.status-code,200,X6rSgyKETB9BsCCYnl1hi,other,2DwLFatv5jePsRChEcOOG
+csp-report.violated-directive,script-src-elem,X6rSgyKETB9BsCCYnl1hi,other,QKH6IDbScai2_T7bpqSYf
+variables.detailed,false,IL3AvXobXRpp5pygzdypW,other,KjGVYNw2RsFygaCroSJ9b,KjGVYNw2RsFygaCroSJ9b
+variables.enableACCScheduling,true,IL3AvXobXRpp5pygzdypW,other,I0AMy5-vdtQ6jesjBgivX
+variables.enableAEBadge,false,IL3AvXobXRpp5pygzdypW,other,9XKR9e2rMLfga_2gcrr4r
+variables.enableBadges,false,IL3AvXobXRpp5pygzdypW,other,tlcSxk7RTnH_ii1Ks633e
+variables.enableBenefitSavings,false,IL3AvXobXRpp5pygzdypW,other,om2qzOaUocVxqvQUIcOwH
+variables.enableCartBookslotShortcut,false,IL3AvXobXRpp5pygzdypW,other,V898iX71DIWJxBCTeCzl_
+variables.enableCartLevelMSI,false,IL3AvXobXRpp5pygzdypW,other,Sdya9iV0NsN3Hh7VR5wKr
+variables.enableExpressReservationEndTime,false,IL3AvXobXRpp5pygzdypW,other,cBL2CfWcMVyB7Tfbr5bdZ
+variables.enableFutureInventoryCartBookslot,false,IL3AvXobXRpp5pygzdypW,other,UOnXITajuLMoj3vjwpEON
+variables.enableIntentControl,false,IL3AvXobXRpp5pygzdypW,other,sEF9C0bg3AL4fOaHtDupq
+variables.enableMsiMci,false,IL3AvXobXRpp5pygzdypW,other,Ku7eJDd0jTU2DvAYT27bj
+variables.enablePickupNotAvailable,false,IL3AvXobXRpp5pygzdypW,other,JRe33GVcV37MDDZX-zGAN
+variables.enableReturnsLabel,false,IL3AvXobXRpp5pygzdypW,other,D57kgFY1T87z6n1cNrZj7
+variables.enableStarRatings,false,IL3AvXobXRpp5pygzdypW,other,o4Z3Fc1W_ML3Vhx5HejJ7
+variables.enableWalmartPlusFreeDiscountedExpress,true,IL3AvXobXRpp5pygzdypW,other,vlyqWm6x8NZtdk6Tw3WHQ
+variables.enableWalmartPlusFreeDiscountedExpressProgram,false,IL3AvXobXRpp5pygzdypW,other,-zCHAv3gPWN1akOwJRvYZ
+variables.enableWeightedItems,false,IL3AvXobXRpp5pygzdypW,other,RUeJi9xWcvEdRdiGmX0ZA
+variables.enableWplusCashback,false,IL3AvXobXRpp5pygzdypW,other,3Gyi0yi0eL2P0pCeAyHnV
+variables.includeExpressSla,true,IL3AvXobXRpp5pygzdypW,other,JGMu6zVAhvyNoprsmOgJa
+variables.includeGrandAndSavedSubtotal,false,IL3AvXobXRpp5pygzdypW,other,eTNi_sDKjZv6QD7VTr-Gu
+variables.includeImageAndName,false,IL3AvXobXRpp5pygzdypW,other,-vEfWk7RZaBS2pewETZnA
+variables.includeOtherDetailed,true,IL3AvXobXRpp5pygzdypW,other,lVlNLKOWlCTCIDdjTC_k0
+variables.includePartialFulfillmentSwitching,false,IL3AvXobXRpp5pygzdypW,other,qH2vahJvSd9CTlqD4m4IB
+variables.includeQueueing,false,IL3AvXobXRpp5pygzdypW,other,nRbK6iOHAS8_XL9OBQErX
+variables.includeWeeklyReservation,true,IL3AvXobXRpp5pygzdypW,other,lreABhzz0O_0pkjgntwmX
+variables.input.enableCartSplitClarity,false,IL3AvXobXRpp5pygzdypW,other,hGYUk2cyCI-bNcdJ2ud-t
+variables.input.enableLiquorBox,true,IL3AvXobXRpp5pygzdypW,other,aMH6IXMtHp-fiC9pgC1qm
+variables.input.strategy,MERGE,IL3AvXobXRpp5pygzdypW,other,5t0RqnoDzEIpCvwxEhHkU
+query,query AdV2Display( $platform:Platform! $pageId:String! $pageType:PageType! $tenant:String! $moduleType:ModuleType! $pageContext:PageContextIn $locationContext:LocationContextIn $moduleConfigs:JSON $adsContext:AdsContextIn $adRequestComposite:AdRequestCompositeIn ){adV2( platform:$platform pageId:$pageId pageType:$pageType tenant:$tenant moduleType:$moduleType locationContext:$locationContext pageContext:$pageContext moduleConfigs:$moduleConfigs adsContext:$adsContext adRequestComposite:$adRequestComposite ){status adContent{type data{__typename...AdDataDisplayAdFragment}}}}fragment AdDataDisplayAdFragment on AdData{...on DisplayAd{json status}},m_hQzql4XUw5kLpfb6fPm,other,tgOgZ8rARYb0Eo3-OV0yt
+variables.adRequestComposite.povCardIdx,3,m_hQzql4XUw5kLpfb6fPm,other,DdoNpQIoz0mJaTCyGlVVG
+variables.adsContext.dedupeList,3146340161,m_hQzql4XUw5kLpfb6fPm,other,NujiNIZJ-YYr5SZrusFOZ
+variables.locationContext.stateCode,NJ,m_hQzql4XUw5kLpfb6fPm,location,5mj-3W2sIn5rcHxFhkuha,5mj-3W2sIn5rcHxFhkuha
+variables.locationContext.storeId,3520,m_hQzql4XUw5kLpfb6fPm,other,zdYxJAu77dd3IH-IviAqm
+variables.locationContext.zipCode,07307,m_hQzql4XUw5kLpfb6fPm,location,1GaTxQVWj9adKm7_m4wnj,1GaTxQVWj9adKm7_m4wnj
+variables.moduleConfigs.lazy,true,m_hQzql4XUw5kLpfb6fPm,other,hahg4hPG6J37bFKTSUkGI
+variables.moduleType,POVDisplayAd,m_hQzql4XUw5kLpfb6fPm,other,qIkTJz3RmW1tON9FDlIpM
+variables.pageId,,m_hQzql4XUw5kLpfb6fPm,other,DEoS8ybdzIjY8OeWnAx-k
+variables.pageType,HOME,m_hQzql4XUw5kLpfb6fPm,other,ZBwaC5FB8wrF0YxA2th9H
+variables.platform,DESKTOP,m_hQzql4XUw5kLpfb6fPm,device_information,AyxoC9XFXH91Mzyh-mhHe,AyxoC9XFXH91Mzyh-mhHe
+variables.tenant,WM_GLASS,m_hQzql4XUw5kLpfb6fPm,other,HPPBpbLRlPykKikSFBqGu
+query,query GetLoginOptions($input:UserOptionsInput!){getLoginOptions(input:$input){loginOptions{...LoginOptionsFragment}errors{...LoginOptionsErrorFragment}}}fragment LoginOptionsFragment on LoginOptions{loginId canUsePassword canUsePhoneOTP canUseEmailOTP loginPhoneLastFour signInPreference loginPreference lastLoginPreference hasRemainingFactors}fragment LoginOptionsErrorFragment on IdentityLoginOptionsError{code message},F_XrvKhSEXueKy9FIE5aU,other,HjcexKXTJ-mCxE1dIdrgz
+variables.input.loginId,mattrmandelbaum@gmail.com,F_XrvKhSEXueKy9FIE5aU,personal_information,-lTfmBXVw-5hJf8e20wRW,-lTfmBXVw-5hJf8e20wRW
+variables.input.loginIdType,EMAIL,F_XrvKhSEXueKy9FIE5aU,personal_information,uu6nzgmzIxzSgtZ7skAua,uu6nzgmzIxzSgtZ7skAua
+variables.enableSwatch,true,c1FLfZDMzyFBzsv-RoMGX,other,7nlrExaUo42YIMJ7X-DZ_
+variables.fetchMarquee,true,c1FLfZDMzyFBzsv-RoMGX,other,oDHPwvtcPSo_LdI8ID-BM
+variables.isBTF,true,c1FLfZDMzyFBzsv-RoMGX,other,iVR0-kSoL13q3pFlsVegV
+variables.p13n.lazyModules[0].configs.__typename,TempoWM_GLASSWWWItemCarouselConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,o-d6FWio2txiK6GldSpUZ
+variables.p13n.lazyModules[0].configs.title,New in beauty,c1FLfZDMzyFBzsv-RoMGX,other,lHhpT49D-7Nnu0gYEzOpr
+variables.p13n.lazyModules[0].configs.viewAllLink.clickThrough.type,url,c1FLfZDMzyFBzsv-RoMGX,other,-VEZvEZBxIBZSig4N7e1h
+variables.p13n.lazyModules[0].configs.viewAllLink.clickThrough.value,/browse/new-beauty/0/0/?_refineresult=true&_be_shelf_id=4821493&search_sort=100&facet=shelf_id:4821493,c1FLfZDMzyFBzsv-RoMGX,other,P5N8gyLb_3y0oI09g6GGx
+variables.p13n.lazyModules[0].configs.viewAllLink.linkText,View all,c1FLfZDMzyFBzsv-RoMGX,other,0b96nF8DVS-tFUceZuCB3
+variables.p13n.lazyModules[0].configs.viewAllLink.title,View all,c1FLfZDMzyFBzsv-RoMGX,other,IkfiybuJYc5Beupbbpms_
+variables.p13n.lazyModules[0].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,Owd8ldEeqS0A5opOzBcJ8
+variables.p13n.lazyModules[0].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,JPwJH8lCsWQWD05ymUKvx
+variables.p13n.lazyModules[0].matchedTrigger.zone,contentZone28,c1FLfZDMzyFBzsv-RoMGX,other,XvPshyv0xZ5abkEolBVtE
+variables.p13n.lazyModules[0].moduleId,14df2117-9de8-4048-9a10-ba1d50617087,c1FLfZDMzyFBzsv-RoMGX,other,TROjukFCB5BQBcs4_lHH_
+variables.p13n.lazyModules[0].module_id,14df2117-9de8-4048-9a10-ba1d50617087,c1FLfZDMzyFBzsv-RoMGX,other,Ky6rDNiGURZ4u6WVfV0gF
+variables.p13n.lazyModules[0].name,(Default # 4: manual shelf - Zone 27) Desktop - Item Carousel - New beauty - 2.4.22,c1FLfZDMzyFBzsv-RoMGX,other,cBuEZPnD2PozodSkSYV-t
+variables.p13n.lazyModules[0].publishedDate,1666129171006,c1FLfZDMzyFBzsv-RoMGX,other,frr7mdMtq4O-u4GfwI1F5
+variables.p13n.lazyModules[0].status,published,c1FLfZDMzyFBzsv-RoMGX,other,MZ6BOfUOI9eUT5kbfxSXn
+variables.p13n.lazyModules[0].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,HLKhDZK3Y0Dx6x0MF1HrC
+variables.p13n.lazyModules[0].triggers[0].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,ysUZnBp3b7JedIkq2bKNv
+variables.p13n.lazyModules[0].triggers[0].zone,contentZone28,c1FLfZDMzyFBzsv-RoMGX,other,EG5ysP2vb2-wq4As_sPUa
+variables.p13n.lazyModules[0].type,ItemCarousel,c1FLfZDMzyFBzsv-RoMGX,other,vCEqcJSQr4hKTTsCZQHCe
+variables.p13n.lazyModules[0].version,2,c1FLfZDMzyFBzsv-RoMGX,other,29CjnaJ9urSvcOYHJ1KVG
+variables.p13n.lazyModules[1].configs.__typename,TempoWM_GLASSWWWItemCarouselConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,OOB6pjFNVgqpBS6F1tQq1
+variables.p13n.lazyModules[1].configs.title,Reset your bedroom,c1FLfZDMzyFBzsv-RoMGX,other,aI6LK8toEtiv2z9btHmhM
+variables.p13n.lazyModules[1].configs.viewAllLink.clickThrough.type,url,c1FLfZDMzyFBzsv-RoMGX,other,B2_UTgh8urRV8IijMBrgX
+variables.p13n.lazyModules[1].configs.viewAllLink.clickThrough.value,/browse/home-bedroom-refresh/0/0?_refineresult=true&_be_shelf_id=2766774&search_sort=100&facet=shelf_id%3A2766774,c1FLfZDMzyFBzsv-RoMGX,other,CZNMbvdA5laf9eMzpR3FC
+variables.p13n.lazyModules[1].configs.viewAllLink.linkText,View all,c1FLfZDMzyFBzsv-RoMGX,other,QMU0KDVnG0PlbVbFU7gt6
+variables.p13n.lazyModules[1].configs.viewAllLink.title,View all,c1FLfZDMzyFBzsv-RoMGX,other,eqCJwD3nrFoUiKJ89Ngd5
+variables.p13n.lazyModules[1].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,XfwG5YP1KKWReTBFIhxA8
+variables.p13n.lazyModules[1].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,MlOj70GEbW_W35zD7dWC3
+variables.p13n.lazyModules[1].matchedTrigger.zone,contentZone18,c1FLfZDMzyFBzsv-RoMGX,other,rBQHXc1OyRFOaqJ0rLrnM
+variables.p13n.lazyModules[1].moduleId,23b5e899-3f66-4df9-a4be-d9df2e130016,c1FLfZDMzyFBzsv-RoMGX,other,E_oT0LrG5mVeWw3KrC5sC
+variables.p13n.lazyModules[1].module_id,23b5e899-3f66-4df9-a4be-d9df2e130016,c1FLfZDMzyFBzsv-RoMGX,other,mrgg7HUN4DlZV7EJVO5Nl
+variables.p13n.lazyModules[1].name,(Default #1: manual shelf - Zone 16) Desktop - Item Carousel - Reset Your Bedroom - 5.2.22,c1FLfZDMzyFBzsv-RoMGX,other,mM1pNzWTKcUptub5AwRQq
+variables.p13n.lazyModules[1].publishedDate,1666129294145,c1FLfZDMzyFBzsv-RoMGX,other,GdwlxBtA8Cozos3WNqlKl
+variables.p13n.lazyModules[1].status,published,c1FLfZDMzyFBzsv-RoMGX,other,Dq4auRtTpsHyDM8WyLI3F
+variables.p13n.lazyModules[1].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,Cov2uvfjIGkyna11MOjH9
+variables.p13n.lazyModules[1].triggers[0].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,kd2dx9Dse2mihxe4Gt8Re
+variables.p13n.lazyModules[1].triggers[0].zone,contentZone18,c1FLfZDMzyFBzsv-RoMGX,other,VT8v0ixdLajEZBmyMeAIu
+variables.p13n.lazyModules[1].type,ItemCarousel,c1FLfZDMzyFBzsv-RoMGX,other,8hQxCsw2unDbfbBU2MV8P
+variables.p13n.lazyModules[1].version,6,c1FLfZDMzyFBzsv-RoMGX,other,eOHu4hYZTYBUpe8_gQZIw
+variables.p13n.lazyModules[2].configs.__typename,TempoWM_GLASSWWWItemCarouselConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,2osXn7WbsFB8cyW9Y81Xg
+variables.p13n.lazyModules[2].configs.title,Storage furniture,c1FLfZDMzyFBzsv-RoMGX,other,2COi7DpnU5fifo-g15EKD
+variables.p13n.lazyModules[2].configs.viewAllLink.clickThrough.type,url,c1FLfZDMzyFBzsv-RoMGX,other,u4J4NU0y8jHUzlpTfSJME
+variables.p13n.lazyModules[2].configs.viewAllLink.clickThrough.value,/browse/home-get-organized/0/0?_refineresult=true&_be_shelf_id=3837312&search_sort=100&facet=shelf_id%3A3837312,c1FLfZDMzyFBzsv-RoMGX,other,rbUqIwVv63k_59NRQEXgf
+variables.p13n.lazyModules[2].configs.viewAllLink.linkText,View all,c1FLfZDMzyFBzsv-RoMGX,other,vbfdvaUQ5k5KAygvkCdnL
+variables.p13n.lazyModules[2].configs.viewAllLink.title,View all,c1FLfZDMzyFBzsv-RoMGX,other,CsyJiIIQ1OshpibQPnsFb
+variables.p13n.lazyModules[2].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,ceoNNRGPDzhnaPMTGcQB9
+variables.p13n.lazyModules[2].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,_XjCsLHJ6dGDhXb3s_JTG
+variables.p13n.lazyModules[2].matchedTrigger.zone,contentZone23,c1FLfZDMzyFBzsv-RoMGX,other,HMMoBxA57GbFNx3k24Sgn
+variables.p13n.lazyModules[2].moduleId,ec5f0c2a-0ca9-460f-b77f-389e631b7a36,c1FLfZDMzyFBzsv-RoMGX,other,91m34JCEo1aSTNKS6xK14
+variables.p13n.lazyModules[2].module_id,ec5f0c2a-0ca9-460f-b77f-389e631b7a36,c1FLfZDMzyFBzsv-RoMGX,other,Lsk1L0tW_9An3iR3BeznI
+variables.p13n.lazyModules[2].name,(Default #2: manual shelf- Zone 22) Desktop - Item Carousel - Storage furniture - 2.4.22,c1FLfZDMzyFBzsv-RoMGX,other,7F-WhN6NMmyeZx8JEilLG
+variables.p13n.lazyModules[2].publishedDate,1666129227227,c1FLfZDMzyFBzsv-RoMGX,other,d578EMkWFrjGkownbOmnF
+variables.p13n.lazyModules[2].status,published,c1FLfZDMzyFBzsv-RoMGX,other,C6fZCSwv5rKxB-4e23-OJ
+variables.p13n.lazyModules[2].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,sNBiwwFU_kmLqwXfS3Un4
+variables.p13n.lazyModules[2].triggers[0].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,VotL664gzci7qjSTjPqWv
+variables.p13n.lazyModules[2].triggers[0].zone,contentZone23,c1FLfZDMzyFBzsv-RoMGX,other,EMUsaeTVoWC_FtQU3oZCa
+variables.p13n.lazyModules[2].type,ItemCarousel,c1FLfZDMzyFBzsv-RoMGX,other,5J4zVYpBSDrGqw0AR6iyR
+variables.p13n.lazyModules[2].version,2,c1FLfZDMzyFBzsv-RoMGX,other,hmUnZtfOswX86I3nImVh7
+variables.p13n.lazyModules[3].configs.__typename,TempoWM_GLASSWWWItemCarouselConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,XVFyweCIBCVcYXNVk-o4h
+variables.p13n.lazyModules[3].configs.title,New in tech,c1FLfZDMzyFBzsv-RoMGX,other,vaPhytmpKIoXzNzlMY4Nc
+variables.p13n.lazyModules[3].configs.viewAllLink.clickThrough.type,url,c1FLfZDMzyFBzsv-RoMGX,other,cE6Yti1KiA-weaMrGROy9
+variables.p13n.lazyModules[3].configs.viewAllLink.clickThrough.value,/browse/new-in-tech/0/0/?_refineresult=true&_be_shelf_id=3124250&search_sort=100&facet=shelf_id:3124250,c1FLfZDMzyFBzsv-RoMGX,other,BpzuNvHp6bj1EULJrKxAL
+variables.p13n.lazyModules[3].configs.viewAllLink.linkText,View all,c1FLfZDMzyFBzsv-RoMGX,other,7jlaKpmtSowxI-YKUTq6d
+variables.p13n.lazyModules[3].configs.viewAllLink.title,View all,c1FLfZDMzyFBzsv-RoMGX,other,jCrly5Kfe5-RAF_HO1_P-
+variables.p13n.lazyModules[3].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,jxEje3AuDzsF1buIzL29e
+variables.p13n.lazyModules[3].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,WqKYtiZZTHjP8Zglk_ojZ
+variables.p13n.lazyModules[3].matchedTrigger.zone,contentZone26,c1FLfZDMzyFBzsv-RoMGX,other,r3K4ZHS4v2eUWhj6LNB4M
+variables.p13n.lazyModules[3].moduleId,347b4c12-2167-452c-806a-8810e75728ee,c1FLfZDMzyFBzsv-RoMGX,other,eyAmFI9QZQHLOr-d-EjTG
+variables.p13n.lazyModules[3].module_id,347b4c12-2167-452c-806a-8810e75728ee,c1FLfZDMzyFBzsv-RoMGX,other,YWvm9hE0XWz32GJhKUxHQ
+variables.p13n.lazyModules[3].name,(Default #3: manual shelf- Zone 25) Desktop - Item Carousel - New in Tech - 2.4.22,c1FLfZDMzyFBzsv-RoMGX,other,9AhOhfHt8C9MYpD99SmuO
+variables.p13n.lazyModules[3].publishedDate,1666129194734,c1FLfZDMzyFBzsv-RoMGX,other,Dc8mlS3Fng_vQcTqX5Ome
+variables.p13n.lazyModules[3].status,published,c1FLfZDMzyFBzsv-RoMGX,other,wv2RCLZR7k80Me5pl5dbh
+variables.p13n.lazyModules[3].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,Bf_nd3lVxJkDt828ufPrY
+variables.p13n.lazyModules[3].triggers[0].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,eUC7wlZfgcF2NU-gSROHj
+variables.p13n.lazyModules[3].triggers[0].zone,contentZone26,c1FLfZDMzyFBzsv-RoMGX,other,qUnbjps-nxn8B-OcM8i1H
+variables.p13n.lazyModules[3].type,ItemCarousel,c1FLfZDMzyFBzsv-RoMGX,other,y5Z7kQjTLSuC6Ug4T2Mwt
+variables.p13n.lazyModules[3].version,2,c1FLfZDMzyFBzsv-RoMGX,other,wbfEqJCa9dR27D_5koA8r
+variables.p13n.lazyModules[4].configs.__typename,TempoWM_GLASSWWWPOVCardsConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,9Gp69XUG4Q-cnK3oXzh5y
+variables.p13n.lazyModules[4].configs.cards[0].headingText,FlipaZoo pillow,c1FLfZDMzyFBzsv-RoMGX,other,sYUdG5_-Bi4uuN0oahltH
+variables.p13n.lazyModules[4].configs.cards[0].image.alt,FlipaZoo pillow.  New fun-filled toys that flip from one animal to another. Shop now,c1FLfZDMzyFBzsv-RoMGX,other,2JXpiB3WUXKzQ9CdRCfFx
+variables.p13n.lazyModules[4].configs.cards[0].image.assetId,e11d55dc-6578-4b0b-8a8d-d9b7013f5ceb,c1FLfZDMzyFBzsv-RoMGX,other,Na_ZOpAMis1Ta4zjo2GIA
+variables.p13n.lazyModules[4].configs.cards[0].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,zoW7vjE95oixMPxlF8GSY
+variables.p13n.lazyModules[4].configs.cards[0].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-a9cf/k2-_7f374166-6c55-4dd3-a0ff-b3143d7bfc18.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,iXtcxS0ZYfw4ig_NHmtKu
+variables.p13n.lazyModules[4].configs.cards[0].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,SBszU0Xp8fsANbwxTGg4g
+variables.p13n.lazyModules[4].configs.cards[0].link.clickThrough.value,/search?q=flipazoo&facet=brand%3AFlipaZoo,c1FLfZDMzyFBzsv-RoMGX,other,9gu0oQYM0wmZyrn4e8Wbz
+variables.p13n.lazyModules[4].configs.cards[0].link.linkText,Shop now,c1FLfZDMzyFBzsv-RoMGX,other,Zd9_dTd09UogKgEKO7jZ7
+variables.p13n.lazyModules[4].configs.cards[1].descriptionText,Give your baby the best with gentle formulas you can trust.,c1FLfZDMzyFBzsv-RoMGX,other,DUyQAvM_YGV7cWHmXb7Kf
+variables.p13n.lazyModules[4].configs.cards[1].headingText,Oh-so-soft care,c1FLfZDMzyFBzsv-RoMGX,other,0WRuNGG32zWOSduzAXsrE
+variables.p13n.lazyModules[4].configs.cards[1].image.alt,Oh-so-soft care. Give your baby the best with gentle formulas you can trust. Shop now,c1FLfZDMzyFBzsv-RoMGX,other,DDukbZRY8uv39CXgwKJjB
+variables.p13n.lazyModules[4].configs.cards[1].image.assetId,eb162a82-4af0-425a-bf2e-6d6ae40497ce,c1FLfZDMzyFBzsv-RoMGX,other,E-aYM4JBEnt7un0S2tki8
+variables.p13n.lazyModules[4].configs.cards[1].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,sf46LnpBnlbxKEDUL7pRD
+variables.p13n.lazyModules[4].configs.cards[1].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-c258/k2-_74f6690f-ab18-4608-923f-ae4e62a22ff4.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,JN4rixFjs7sLqJwv4jOR8
+variables.p13n.lazyModules[4].configs.cards[1].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,JKhMdmOimeLWvICHmShN7
+variables.p13n.lazyModules[4].configs.cards[1].link.clickThrough.value,/browse/baby-toiletries/baby-bath-care/5427_6529511_6006967_6135565?facet=brand%3ASuave,c1FLfZDMzyFBzsv-RoMGX,other,Nhf4_cWjFT0M8sEkQFfOE
+variables.p13n.lazyModules[4].configs.cards[1].link.linkText,Shop now,c1FLfZDMzyFBzsv-RoMGX,other,kd635p6qsEgG2V7KqORpx
+variables.p13n.lazyModules[4].configs.headingText,Brand new for you,c1FLfZDMzyFBzsv-RoMGX,other,f5ThM_p7BRaQMRBcJj6vs
+variables.p13n.lazyModules[4].configs.imageAspectRatio,regular,c1FLfZDMzyFBzsv-RoMGX,other,sGsMMEEFoRgm66BmfrVxM
+variables.p13n.lazyModules[4].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,WRkLGrxh8GLm-0LNGW5Tk
+variables.p13n.lazyModules[4].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,Ib9FYykNP9tr9zK-W1GKU
+variables.p13n.lazyModules[4].matchedTrigger.zone,contentZone27,c1FLfZDMzyFBzsv-RoMGX,other,V5_T2j6RyQI3xnJPBWt76
+variables.p13n.lazyModules[4].moduleId,0c10d2b0-e6ae-47b0-81ba-a263481d3182,c1FLfZDMzyFBzsv-RoMGX,other,iD5DgoCpDjPd0pCvIK9aL
+variables.p13n.lazyModules[4].module_id,0c10d2b0-e6ae-47b0-81ba-a263481d3182,c1FLfZDMzyFBzsv-RoMGX,other,StM8UcDiaZFBACXtoS5xF
+variables.p13n.lazyModules[4].name,2UP POV Cards Module - Brand new for you: Flipazoo/ Suave - mWeb/Desktop - 2.10.23 (P13) - Image size: 838x470,c1FLfZDMzyFBzsv-RoMGX,other,bZzeRec_QlJkIsWTQ3I5R
+variables.p13n.lazyModules[4].publishedDate,1675703126411,c1FLfZDMzyFBzsv-RoMGX,other,MTjRtSTIO3VmPUErwc4w4
+variables.p13n.lazyModules[4].status,published,c1FLfZDMzyFBzsv-RoMGX,other,oT_Bi5LYS7WWFmWZnmn5i
+variables.p13n.lazyModules[4].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,05J9-ZKrZ0Ttyy-RXmOsA
+variables.p13n.lazyModules[4].triggers[0].pageType,Homepage,c1FLfZDMzyFBzsv-RoMGX,other,xejAL1tAJ24G5Mey7wHmM
+variables.p13n.lazyModules[4].triggers[0].zone,contentZone23,c1FLfZDMzyFBzsv-RoMGX,other,5XdnPTUV8zWjhNlf0MzXa
+variables.p13n.lazyModules[4].triggers[1].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,HqJeEuw6tMV8e1otU2Il9
+variables.p13n.lazyModules[4].triggers[1].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,UETeEcUDzZ8rZkxAvByry
+variables.p13n.lazyModules[4].triggers[1].zone,contentZone27,c1FLfZDMzyFBzsv-RoMGX,other,WIaGikJcd_ZtkORoaFfqd
+variables.p13n.lazyModules[4].type,POVCards,c1FLfZDMzyFBzsv-RoMGX,other,JhwteKdNg8dw4VBdlrxpC
+variables.p13n.lazyModules[4].version,1,c1FLfZDMzyFBzsv-RoMGX,other,jZX-EHjWyTHtLnXcjEkc5
+variables.p13n.lazyModules[5].configs.__typename,TempoWM_GLASSWWWPOVCardsConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,L9SXLaII4NeReGrXUDs7h
+variables.p13n.lazyModules[5].configs.cards[0].descriptionText,Get low prices on the latest electronics for 2023 & beyond.,c1FLfZDMzyFBzsv-RoMGX,other,K9yBHh-rc32aB4g56-lwG
+variables.p13n.lazyModules[5].configs.cards[0].image.assetId,67e24bd4-15d3-4667-b734-bf162a0c5533,c1FLfZDMzyFBzsv-RoMGX,other,3rqOP39lQ5ISwQx4M25Kx
+variables.p13n.lazyModules[5].configs.cards[0].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,RhTfQh372clXAxdE7LqJ2
+variables.p13n.lazyModules[5].configs.cards[0].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-8578/k2-_0ad0eddd-6992-40e3-8281-2241dac5af81.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,tFJXoc3XdHL8qFX_0lSex
+variables.p13n.lazyModules[5].configs.cards[0].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,xIc7XBtoBtDNRxdYDU0Pz
+variables.p13n.lazyModules[5].configs.cards[0].link.clickThrough.value,/shop/deals/electronics/new-year-new-tech,c1FLfZDMzyFBzsv-RoMGX,other,_pvRf2PwhsAlMurVycluv
+variables.p13n.lazyModules[5].configs.cards[0].link.linkText,Shop now,c1FLfZDMzyFBzsv-RoMGX,other,w-I3ddLFfCTP8ivjX9yJD
+variables.p13n.lazyModules[5].configs.cards[1].descriptionText,Game-changing styles to elevate your fit.,c1FLfZDMzyFBzsv-RoMGX,other,9uR7tjRCQtF3XH2s5WSSG
+variables.p13n.lazyModules[5].configs.cards[1].headingText,Level up in Reebok,c1FLfZDMzyFBzsv-RoMGX,other,nnouuYsWsxSEUVbZCgeLR
+variables.p13n.lazyModules[5].configs.cards[1].image.alt,Level up in Reebok. Game changing styles to elevate your fit. Shop now,c1FLfZDMzyFBzsv-RoMGX,other,f_SKbqPI6QHjNMr-nAG-_
+variables.p13n.lazyModules[5].configs.cards[1].image.assetId,55c4ea27-9c64-47e3-a3ad-7216aa8286a9,c1FLfZDMzyFBzsv-RoMGX,other,8Ppd7DTwk8Qe8L8o08TGn
+variables.p13n.lazyModules[5].configs.cards[1].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,qxi-uEyjdMyNWL-8oskZf
+variables.p13n.lazyModules[5].configs.cards[1].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-1ae6/k2-_037d0b61-f753-4d80-96cf-9a4698e0f230.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,XY0s5OnTlcKBPCu8VWtxL
+variables.p13n.lazyModules[5].configs.cards[1].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,oCmFktJ7BQ5FZToU5moB5
+variables.p13n.lazyModules[5].configs.cards[1].link.clickThrough.value,/browse/clothing/reebok-womens/5438_3317124_7352100_2159120,c1FLfZDMzyFBzsv-RoMGX,other,innJX5lDaZQFKNOhZl33n
+variables.p13n.lazyModules[5].configs.cards[1].link.linkText,Shop now,c1FLfZDMzyFBzsv-RoMGX,other,BDkbIez_F6bUPH2g1U3th
+variables.p13n.lazyModules[5].configs.headingText,In season,c1FLfZDMzyFBzsv-RoMGX,other,yfc0WMA5HaRC9QZxLH0Rl
+variables.p13n.lazyModules[5].configs.imageAspectRatio,regular,c1FLfZDMzyFBzsv-RoMGX,other,9PwGmLpBbgao2av_NUgUX
+variables.p13n.lazyModules[5].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,JD9cFByNalEQOUBwvhkgJ
+variables.p13n.lazyModules[5].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,fI-KnXz1Bj2uTAGqh0LsH
+variables.p13n.lazyModules[5].matchedTrigger.zone,contentZone25,c1FLfZDMzyFBzsv-RoMGX,other,4CSv7F0N2dCclSQoTY5H8
+variables.p13n.lazyModules[5].moduleId,40a949cb-b40d-43b0-a7f6-c2f6708cd6ab,c1FLfZDMzyFBzsv-RoMGX,other,MEcCyVQvxbEwNyGiKfPZk
+variables.p13n.lazyModules[5].module_id,40a949cb-b40d-43b0-a7f6-c2f6708cd6ab,c1FLfZDMzyFBzsv-RoMGX,other,OOTcHCPR4Iy3Vnr-086fq
+variables.p13n.lazyModules[5].name,2UP POV Cards Module - In season: NYNY Tech/ Reebok (default) - mWeb/Desktop - 2.10.23 (P13) - Image size: 838x470,c1FLfZDMzyFBzsv-RoMGX,other,vOK4ZhNFUKzB8FiLUM3zC
+variables.p13n.lazyModules[5].publishedDate,1675702965896,c1FLfZDMzyFBzsv-RoMGX,other,Y5cnBVtTtgUtGqa7vG_A-
+variables.p13n.lazyModules[5].status,published,c1FLfZDMzyFBzsv-RoMGX,other,35mCm0crKj__ZwKg8ngjh
+variables.p13n.lazyModules[5].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,kh1Y50-uF3ji-dUfwHogx
+variables.p13n.lazyModules[5].triggers[0].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,ZM8jsX6V6ctQSM12PZceX
+variables.p13n.lazyModules[5].triggers[0].zone,contentZone25,c1FLfZDMzyFBzsv-RoMGX,other,rTT36hmFxNC8ekjj8jNfp
+variables.p13n.lazyModules[5].triggers[1].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,4j0AbAFRjRB62HizGMOH3
+variables.p13n.lazyModules[5].triggers[1].pageType,Homepage,c1FLfZDMzyFBzsv-RoMGX,other,ebnmz3IfP0T6z0e5xWmag
+variables.p13n.lazyModules[5].triggers[1].zone,contentZone19,c1FLfZDMzyFBzsv-RoMGX,other,U1W69S3IH7nCme66cgUgr
+variables.p13n.lazyModules[5].type,POVCards,c1FLfZDMzyFBzsv-RoMGX,other,fv5JuC39nPCpm7V6BMBX9
+variables.p13n.lazyModules[5].version,1,c1FLfZDMzyFBzsv-RoMGX,other,mSMZXIoakYnAKwyaamTAr
+variables.p13n.lazyModules[6].configs.__typename,TempoWM_GLASSWWWPOVCardsConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,DhGRf-ir1K3WWn8rEI5MI
+variables.p13n.lazyModules[6].configs.cards[0].headingText,Store it in style,c1FLfZDMzyFBzsv-RoMGX,other,EZdG9xxTwpjDkfFenOgDy
+variables.p13n.lazyModules[6].configs.cards[0].image.assetId,5a61aa19-3837-43a1-956c-483a59fa9eb1,c1FLfZDMzyFBzsv-RoMGX,other,PRQfMSlnnxqgyxL4m6eRy
+variables.p13n.lazyModules[6].configs.cards[0].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,yT3e-N_dtblmQuI8InROi
+variables.p13n.lazyModules[6].configs.cards[0].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-beea/k2-_7f2a1245-44bc-4ba0-a7fa-ee3bb4c430c4.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,yuLECKyPnxCt4AbkNy1yg
+variables.p13n.lazyModules[6].configs.cards[0].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,qBJPfctdhHS3cr8VL2rDb
+variables.p13n.lazyModules[6].configs.cards[0].link.clickThrough.value,/cp/storage-organization/90828,c1FLfZDMzyFBzsv-RoMGX,other,mK4C5eEtMBM_XUL5YsI8r
+variables.p13n.lazyModules[6].configs.cards[0].link.linkText,Shop now,c1FLfZDMzyFBzsv-RoMGX,other,MS29WUMYxfXJ5w1JYGOyg
+variables.p13n.lazyModules[6].configs.cards[1].descriptionText,Level up with like-new gear you can count on.,c1FLfZDMzyFBzsv-RoMGX,other,AigEhrCtdtnTP7Ukt6A7T
+variables.p13n.lazyModules[6].configs.cards[1].headingText,Restored tech & more,c1FLfZDMzyFBzsv-RoMGX,other,lhPzHoX6iq4HBavV0eUv7
+variables.p13n.lazyModules[6].configs.cards[1].image.alt,Up to twenty percent off. Restored tech and more. Level up with like-new gear you can count on. Shop now,c1FLfZDMzyFBzsv-RoMGX,other,Uv-8GvX0Y69zhvLDOJzKM
+variables.p13n.lazyModules[6].configs.cards[1].image.assetId,640e91d3-3518-45e9-9ad8-7ab464822721,c1FLfZDMzyFBzsv-RoMGX,other,6nvVuYVqrCyVbdUJro-fJ
+variables.p13n.lazyModules[6].configs.cards[1].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,LJ3zGR33GzJJDg194RNPJ
+variables.p13n.lazyModules[6].configs.cards[1].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-230d/k2-_c7a2bba4-f5cb-4f9b-b0c7-f08a7100d4f2.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,hc-KkGtQEDPF0B_-1GDwM
+variables.p13n.lazyModules[6].configs.cards[1].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,P3iSh0yn5GYY22m-X3Z5q
+variables.p13n.lazyModules[6].configs.cards[1].link.clickThrough.value,/shop/deals/up-to-20-percent-off-walmart-Restored-tech,c1FLfZDMzyFBzsv-RoMGX,other,hxax6xSeFo7sP2EMPKIrW
+variables.p13n.lazyModules[6].configs.cards[1].link.linkText,Shop now,c1FLfZDMzyFBzsv-RoMGX,other,D0QpjiUB-5IhuAhzyHJrN
+variables.p13n.lazyModules[6].configs.cards[2].image.assetId,52be3a25-765c-4fbd-992b-aea5bb8fbdcc,c1FLfZDMzyFBzsv-RoMGX,other,h5eW2latj6lMGGn2MgJJh
+variables.p13n.lazyModules[6].configs.cards[2].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,BbOQob-BYkUzluerf5uL5
+variables.p13n.lazyModules[6].configs.cards[2].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-f0e9/k2-_508e5a46-a6d8-46e6-a66e-5f1d3bb92c0b.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,qNzH5Zo2TwmitwBC_v7aW
+variables.p13n.lazyModules[6].configs.cards[2].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,EdQCBNxMcLM2TotiaQrfQ
+variables.p13n.lazyModules[6].configs.cards[2].link.clickThrough.value,/shop/new-year-home/shop-all,c1FLfZDMzyFBzsv-RoMGX,other,CbQTSU9eRmy9mhU8eYrDJ
+variables.p13n.lazyModules[6].configs.cards[2].link.linkText,Shop now,c1FLfZDMzyFBzsv-RoMGX,other,UWySdIFDO-5aAOuhsaci1
+variables.p13n.lazyModules[6].configs.headingText,For you,c1FLfZDMzyFBzsv-RoMGX,other,ts_oZLYEf3b2aT5QXXc3_
+variables.p13n.lazyModules[6].configs.imageAspectRatio,regular,c1FLfZDMzyFBzsv-RoMGX,other,nesy7mebKnIRrx3eFXC-Z
+variables.p13n.lazyModules[6].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,-W9HOGt3ivSTiIVpCdXjk
+variables.p13n.lazyModules[6].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,h4wl5YzLMSW7zCtGruWq3
+variables.p13n.lazyModules[6].matchedTrigger.zone,contentZone20,c1FLfZDMzyFBzsv-RoMGX,other,O4I3wVXuPYpUecEyTW9gB
+variables.p13n.lazyModules[6].moduleId,3b290205-af7d-4b24-8ba2-e0e4a9984257,c1FLfZDMzyFBzsv-RoMGX,other,KKtpSvpC5YXLxDhv_m4et
+variables.p13n.lazyModules[6].module_id,3b290205-af7d-4b24-8ba2-e0e4a9984257,c1FLfZDMzyFBzsv-RoMGX,other,3BlhW0OhSUsFs2Y2mrjgv
+variables.p13n.lazyModules[6].name,3UP POV Cards Module - For you: Store & Organization/ Walmart Restored/ Curve Home (Default) - Desktop/mWeb - 2.10.23  (P13) - Image size: 838x470,c1FLfZDMzyFBzsv-RoMGX,other,H-I0TvFgCNdhWiHXKeFO4
+variables.p13n.lazyModules[6].publishedDate,1675702755388,c1FLfZDMzyFBzsv-RoMGX,other,LwUxKngmevp2qO--NurWl
+variables.p13n.lazyModules[6].status,published,c1FLfZDMzyFBzsv-RoMGX,other,uyXiw3myfkdlwvYmr8eOJ
+variables.p13n.lazyModules[6].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,TbTmcgYGNQKFVYfd5apy1
+variables.p13n.lazyModules[6].triggers[0].pageType,Homepage,c1FLfZDMzyFBzsv-RoMGX,other,eGT6nNk6ExQNzjDi9csVh
+variables.p13n.lazyModules[6].triggers[0].zone,contentZone13,c1FLfZDMzyFBzsv-RoMGX,other,FjZHXvOpeDPd3M7voVhCz
+variables.p13n.lazyModules[6].triggers[1].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,HDVj4Vqg7nd8wdZcDsGSl
+variables.p13n.lazyModules[6].triggers[1].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,h4r3fRBE6oHQI3P2x6ehB
+variables.p13n.lazyModules[6].triggers[1].zone,contentZone20,c1FLfZDMzyFBzsv-RoMGX,other,Op8VY0ulKYScIxGRmyREJ
+variables.p13n.lazyModules[6].type,POVCards,c1FLfZDMzyFBzsv-RoMGX,other,veLN5OuHdQeil5PtoKtXv
+variables.p13n.lazyModules[6].version,1,c1FLfZDMzyFBzsv-RoMGX,other,armF0VUDEtAfJKxu6e6cd
+variables.p13n.lazyModules[7].configs.__typename,TempoWM_GLASSWWWPOVCardsConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,jZK8U_kJ-ml6AZgMX2OeT
+variables.p13n.lazyModules[7].configs.cards[0].descriptionText,Now available at Walmart.,c1FLfZDMzyFBzsv-RoMGX,other,9uJmKk2jQDI5-UYPK2jNn
+variables.p13n.lazyModules[7].configs.cards[0].headingText,At-home COVID-19 tests,c1FLfZDMzyFBzsv-RoMGX,other,xBtZ3WzLCYfoHg0rtV2T8
+variables.p13n.lazyModules[7].configs.cards[0].image.alt,At-home COVID-19 tests. Now available at Walmart. Shop now,c1FLfZDMzyFBzsv-RoMGX,other,et1NCB3h6Z-lMMDkgA2NN
+variables.p13n.lazyModules[7].configs.cards[0].image.assetId,d5ff7705-f7d0-430b-8769-6e370c40cf40,c1FLfZDMzyFBzsv-RoMGX,other,OljqIo-VRdxnUtUUyfCfZ
+variables.p13n.lazyModules[7].configs.cards[0].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,SKHFUmWgMI9BMqs0zsAFn
+variables.p13n.lazyModules[7].configs.cards[0].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-3432/k2-_12c7e138-42f9-4151-a531-10e8d1a3f5e2.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,_IDtWqjegW432QvxTl0Oc
+variables.p13n.lazyModules[7].configs.cards[0].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,BndvHF_6vwHNCK0Wvxk4G
+variables.p13n.lazyModules[7].configs.cards[0].link.clickThrough.value,/browse/health/covid-testing-kits/976760_1005860_542089_3092061,c1FLfZDMzyFBzsv-RoMGX,other,MslBYfX36WI5w0fEAPaCm
+variables.p13n.lazyModules[7].configs.cards[0].link.linkText,Shop now,c1FLfZDMzyFBzsv-RoMGX,other,EdTsFuaBr16YavrrSM3Dx
+variables.p13n.lazyModules[7].configs.cards[1].headingText,Vaccines & more,c1FLfZDMzyFBzsv-RoMGX,other,kvNBq1dtIh50DMHvgfwwR
+variables.p13n.lazyModules[7].configs.cards[1].image.assetId,beaddb37-7299-413b-a187-a8b2e3d768a3,c1FLfZDMzyFBzsv-RoMGX,other,060PN_2FOiPHIkQzlxBwa
+variables.p13n.lazyModules[7].configs.cards[1].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,42nM7zFWSHZnFclr2n3d1
+variables.p13n.lazyModules[7].configs.cards[1].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-f8d6/k2-_7f9ced9d-3ccf-4602-8a79-56f726caea64.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,X28mgprG2FgQc0P5xEUS5
+variables.p13n.lazyModules[7].configs.cards[1].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,qnWk6bbIIdfmlTyjGovPD
+variables.p13n.lazyModules[7].configs.cards[1].link.clickThrough.value,/pharmacy/clinical-services/immunization?povid=HWS_HomePage_Pharmacy_Immunizations,c1FLfZDMzyFBzsv-RoMGX,other,wGe2wii3d_yAJkBJxC04f
+variables.p13n.lazyModules[7].configs.cards[1].link.linkText,Schedule now,c1FLfZDMzyFBzsv-RoMGX,other,3f7jD9NhvqFQFUGxl38Wk
+variables.p13n.lazyModules[7].configs.cards[2].headingText,Put your health first,c1FLfZDMzyFBzsv-RoMGX,other,NkJ5OA-zOo8BUenZ1yuSH
+variables.p13n.lazyModules[7].configs.cards[2].image.assetId,115844cb-9517-4cd2-9dd5-8a703085d1f3,c1FLfZDMzyFBzsv-RoMGX,other,5TJoHYY-iH_h7jFwHx5-Y
+variables.p13n.lazyModules[7].configs.cards[2].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,FMDCl_a7zEyhux4UmaVXE
+variables.p13n.lazyModules[7].configs.cards[2].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-d7eb/k2-_feec3339-3120-45bf-9ce7-e1fad1c9eccd.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,BpMnG6LMOUSRZi-G5BwK6
+variables.p13n.lazyModules[7].configs.cards[2].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,2ZfSA8t7rNJxbLvpYD_2t
+variables.p13n.lazyModules[7].configs.cards[2].link.clickThrough.value,/cp/health/976760,c1FLfZDMzyFBzsv-RoMGX,other,iVTVIwGAX4_yBqxpJrKBn
+variables.p13n.lazyModules[7].configs.cards[2].link.linkText,Shop now,c1FLfZDMzyFBzsv-RoMGX,other,WvdpJNcyw5bcyJFq0JZfS
+variables.p13n.lazyModules[7].configs.headingText,Health & wellness,c1FLfZDMzyFBzsv-RoMGX,other,a_-_VlriiEkIgHoC6O8Us
+variables.p13n.lazyModules[7].configs.imageAspectRatio,regular,c1FLfZDMzyFBzsv-RoMGX,other,xy1xy31p3smN9LnSzA_ux
+variables.p13n.lazyModules[7].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,j4Vp4174BGh_t-mRB9eUS
+variables.p13n.lazyModules[7].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,SJ_H2R61G2C4qOf5JSEWP
+variables.p13n.lazyModules[7].matchedTrigger.zone,contentZone29,c1FLfZDMzyFBzsv-RoMGX,other,JRd5MawxFvEpq5Pq8x4zV
+variables.p13n.lazyModules[7].moduleId,613228e6-1aba-4b15-92af-5db1f98e9616,c1FLfZDMzyFBzsv-RoMGX,other,58K9eT3swqB8Sb0YJDgCI
+variables.p13n.lazyModules[7].module_id,613228e6-1aba-4b15-92af-5db1f98e9616,c1FLfZDMzyFBzsv-RoMGX,other,AnEts7kWssRX2sb6HPD3e
+variables.p13n.lazyModules[7].name,3UP POV Cards Module - Health & wellness: At Home COVID Tests/ Vaccines & Immunizations/ Put your health first- Desktop/mWeb - 9.16.22,c1FLfZDMzyFBzsv-RoMGX,other,QEoslImuVbGuSyTitgK-O
+variables.p13n.lazyModules[7].publishedDate,1666129161897,c1FLfZDMzyFBzsv-RoMGX,other,cH588O1iUyyGjP2H-IVfZ
+variables.p13n.lazyModules[7].status,published,c1FLfZDMzyFBzsv-RoMGX,other,33t_u3HKMUO4TT_l7s91g
+variables.p13n.lazyModules[7].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,ObGW1wtlrgpE1NEnHdKA0
+variables.p13n.lazyModules[7].triggers[0].pageType,Homepage,c1FLfZDMzyFBzsv-RoMGX,other,-QkBUn18dVXBszkBeXu6J
+variables.p13n.lazyModules[7].triggers[0].zone,contentZone27,c1FLfZDMzyFBzsv-RoMGX,other,sPcnBAx4ke-pRFJDP4uOk
+variables.p13n.lazyModules[7].triggers[1].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,G8cnDT-AlZa6URgDDHUWY
+variables.p13n.lazyModules[7].triggers[1].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,sXeA6Y-3Z2aVd2a_Dz7LO
+variables.p13n.lazyModules[7].triggers[1].zone,contentZone29,c1FLfZDMzyFBzsv-RoMGX,other,C1ikGGNnQ8Htji3JHEH56
+variables.p13n.lazyModules[7].type,POVCards,c1FLfZDMzyFBzsv-RoMGX,other,tfl33PWGNcXs1gheMnyYq
+variables.p13n.lazyModules[7].version,3,c1FLfZDMzyFBzsv-RoMGX,other,nVLgOH9FvCUtu3IorWMCx
+variables.p13n.lazyModules[8].configs.__typename,TempoWM_GLASSWWWPOVCardsConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,N1Of3SWxPyAPG_p1NfEnV
+variables.p13n.lazyModules[8].configs.cards[0].descriptionText,Celebrate trailblazing Black brands & more.,c1FLfZDMzyFBzsv-RoMGX,other,Obymv76tKHvC6rknCH2SI
+variables.p13n.lazyModules[8].configs.cards[0].headingText,Black History Month,c1FLfZDMzyFBzsv-RoMGX,other,njvumJ46Am0z7fd4mPCMm
+variables.p13n.lazyModules[8].configs.cards[0].image.alt,Black History Month. Celebrate trailblazing Black brands and more. Learn more,c1FLfZDMzyFBzsv-RoMGX,other,47v9zMTHyvOyItpaTgKQw
+variables.p13n.lazyModules[8].configs.cards[0].image.assetId,76b4d9d5-2e78-40fa-af85-01218b8dab77,c1FLfZDMzyFBzsv-RoMGX,other,8_WxofnOxi80XN6DV7tGS
+variables.p13n.lazyModules[8].configs.cards[0].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,Pv1NdaacjB8ZiBZob2r2y
+variables.p13n.lazyModules[8].configs.cards[0].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-d0d4/k2-_f576e334-b3c4-44bb-8bfe-e0f3d3b16b9e.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,kn7Y6ms8a_0RYTHgESyst
+variables.p13n.lazyModules[8].configs.cards[0].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,eaOIuLd_tGCxRfpAYgJJ4
+variables.p13n.lazyModules[8].configs.cards[0].link.clickThrough.value,/cp/supporting-black-communities/5486926,c1FLfZDMzyFBzsv-RoMGX,other,6LrZbyxTUkPxghbkEKpGi
+variables.p13n.lazyModules[8].configs.cards[0].link.linkText,Learn more,c1FLfZDMzyFBzsv-RoMGX,other,LdSYrgHFOkwgq1Y0mhYeF
+variables.p13n.lazyModules[8].configs.cards[1].descriptionText,We’re committed to helping you live better today & tomorrow.,c1FLfZDMzyFBzsv-RoMGX,other,JK9I2V2LCHewACxv2q0_s
+variables.p13n.lazyModules[8].configs.cards[1].headingText,Built for Better,c1FLfZDMzyFBzsv-RoMGX,other,ZeHoKNVCdsjc000UeBuwY
+variables.p13n.lazyModules[8].configs.cards[1].image.alt,Built for Better. We’re committed to helping you live better today and tomorrow. Discover more,c1FLfZDMzyFBzsv-RoMGX,other,wHChjAgb19iutS-0GHT2S
+variables.p13n.lazyModules[8].configs.cards[1].image.assetId,39e0831b-8850-40df-866c-22e9fac7f2c7,c1FLfZDMzyFBzsv-RoMGX,other,HYKQWIIAWTE-uN3fwML-7
+variables.p13n.lazyModules[8].configs.cards[1].image.height,470,c1FLfZDMzyFBzsv-RoMGX,other,qUmjl-DN_A97y0A2UD0kl
+variables.p13n.lazyModules[8].configs.cards[1].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-182e/k2-_bc73a3e7-4a09-448b-83fc-3f2b31602115.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,dMkpidfsPlBgazWvHhnnJ
+variables.p13n.lazyModules[8].configs.cards[1].image.width,838,c1FLfZDMzyFBzsv-RoMGX,other,8BeUpBENqrYCvV8qvweTt
+variables.p13n.lazyModules[8].configs.cards[1].link.clickThrough.value,/cp/8747893,c1FLfZDMzyFBzsv-RoMGX,other,fxNIYTVtI3f57CgxtOoTj
+variables.p13n.lazyModules[8].configs.cards[1].link.linkText,Discover more,c1FLfZDMzyFBzsv-RoMGX,other,dJ_w3yFWLDI9-YevlxXSh
+variables.p13n.lazyModules[8].configs.headingText,Sharing our values,c1FLfZDMzyFBzsv-RoMGX,other,35sG92L6bN2L0TilpNTAI
+variables.p13n.lazyModules[8].configs.imageAspectRatio,regular,c1FLfZDMzyFBzsv-RoMGX,other,s-sGmkNqA9VUOon3fwvpn
+variables.p13n.lazyModules[8].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,Ttz-_rBGRI1vcTHeXp37w
+variables.p13n.lazyModules[8].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,0RTIn7qCcxcDs0O8D7f1Y
+variables.p13n.lazyModules[8].matchedTrigger.zone,contentZone30,c1FLfZDMzyFBzsv-RoMGX,other,OZgIC3wrWHCA_TfRtHLx2
+variables.p13n.lazyModules[8].moduleId,51522e19-cec6-4667-b1c5-d6e69df25a37,c1FLfZDMzyFBzsv-RoMGX,other,wdvjjiw0rGNkz2e-OWZ6X
+variables.p13n.lazyModules[8].module_id,51522e19-cec6-4667-b1c5-d6e69df25a37,c1FLfZDMzyFBzsv-RoMGX,other,osdfS33isT8lP4j_YnTwN
+variables.p13n.lazyModules[8].name,CSR POV Cards Module - Sharing our values: Black History Month/ Built for Better 2.6.23,c1FLfZDMzyFBzsv-RoMGX,other,oRBustw4M0MpFebWYD8rd
+variables.p13n.lazyModules[8].publishedDate,1675363927771,c1FLfZDMzyFBzsv-RoMGX,other,klmpw0mqAyKVa2pGErwTj
+variables.p13n.lazyModules[8].status,published,c1FLfZDMzyFBzsv-RoMGX,other,479x17yGX1IA5ZUAAYRXk
+variables.p13n.lazyModules[8].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,IxRGsVtheP1eS1oujyXGJ
+variables.p13n.lazyModules[8].triggers[0].pageType,Homepage,c1FLfZDMzyFBzsv-RoMGX,other,HNoCTehnuvnix3Tz85jZ4
+variables.p13n.lazyModules[8].triggers[0].zone,contentZone28,c1FLfZDMzyFBzsv-RoMGX,other,a9oibqXZ2vIqqEdCgVUmD
+variables.p13n.lazyModules[8].triggers[1].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,kDKR8HDSLtiTxCnOwsA8E
+variables.p13n.lazyModules[8].triggers[1].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,rx-gTBjpyFjHuUXUbzUl-
+variables.p13n.lazyModules[8].triggers[1].zone,contentZone30,c1FLfZDMzyFBzsv-RoMGX,other,c5xSS7qhKcD2B2NKyAhKz
+variables.p13n.lazyModules[8].type,POVCards,c1FLfZDMzyFBzsv-RoMGX,other,YSO_JE-utQucuSNloihp3
+variables.p13n.lazyModules[8].version,3,c1FLfZDMzyFBzsv-RoMGX,other,oYbqBNIHogV5gozvn82jG
+variables.p13n.lazyModules[9].configs.__typename,TempoWM_GLASSWWWCapitalOneBannerConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,9BOC8_Na_nYGFS3HUKhKB
+variables.p13n.lazyModules[9].configs.bannerBackgroundColor,#FFFFFF,c1FLfZDMzyFBzsv-RoMGX,other,3nYmUR0hu3mzpnsfUu0zy
+variables.p13n.lazyModules[9].configs.bannerCta.ctaLink.clickThrough.value,/cp/632402,c1FLfZDMzyFBzsv-RoMGX,other,viT2eEvbMmQ8eb5YTXZE8
+variables.p13n.lazyModules[9].configs.bannerCta.ctaLink.linkText,Learn how,c1FLfZDMzyFBzsv-RoMGX,other,rPlkRzx3tk4lJVfkoXHst
+variables.p13n.lazyModules[9].configs.bannerCta.ctaLink.title,Learn how,c1FLfZDMzyFBzsv-RoMGX,other,m3TLRqeEEwPzN31uR00Sq
+variables.p13n.lazyModules[9].configs.bannerCta.ctaLink.uid,NmXAxPcF,c1FLfZDMzyFBzsv-RoMGX,other,xFZDKbLV2V70KqCdM9YTG
+variables.p13n.lazyModules[9].configs.bannerCta.textColor,#000000,c1FLfZDMzyFBzsv-RoMGX,other,aNMxA-c0VxKtqtOvO2kRy
+variables.p13n.lazyModules[9].configs.bannerText[0].isBold,True,c1FLfZDMzyFBzsv-RoMGX,other,HJ3t6OUinNKrsCCeLIiEt
+variables.p13n.lazyModules[9].configs.bannerText[0].isUnderlined,True,c1FLfZDMzyFBzsv-RoMGX,other,Ukka2U_tuWvAIc4lUyby1
+variables.p13n.lazyModules[9].configs.bannerText[0].text,Earn 5% cash back,c1FLfZDMzyFBzsv-RoMGX,other,HkOIUTi8wpkxY2y8Bf6Yz
+variables.p13n.lazyModules[9].configs.bannerText[0].textColor,#2e2f32,c1FLfZDMzyFBzsv-RoMGX,other,AlxNkGkk3UYAorHjI_7QY
+variables.p13n.lazyModules[9].configs.bannerText[0].underlinedColor,#0071dc,c1FLfZDMzyFBzsv-RoMGX,other,ny0OBLZrgUbROr4Niic8Y
+variables.p13n.lazyModules[9].configs.bannerText[1].isBold,False,c1FLfZDMzyFBzsv-RoMGX,other,ulM8n_sUVDx2HENqmOH1M
+variables.p13n.lazyModules[9].configs.bannerText[1].isUnderlined,False,c1FLfZDMzyFBzsv-RoMGX,other,3atzmswokTS4jKZn4lzJz
+variables.p13n.lazyModules[9].configs.bannerText[1].text,on Walmart.com.,c1FLfZDMzyFBzsv-RoMGX,other,dsY5ENuKG-J1pTFF1mhYh
+variables.p13n.lazyModules[9].configs.bannerText[1].textColor,#2e2f32,c1FLfZDMzyFBzsv-RoMGX,other,IltZV7_zjZskAhI4ZEEW2
+variables.p13n.lazyModules[9].configs.bannerText[1].underlinedColor,#FFFFFF,c1FLfZDMzyFBzsv-RoMGX,other,dat-B7BVN93RYs_8xJsLP
+variables.p13n.lazyModules[9].configs.primaryImage.alt,Capital One,c1FLfZDMzyFBzsv-RoMGX,other,Pxl7LFwFa40Mh7xL2yRiE
+variables.p13n.lazyModules[9].configs.primaryImage.src,https://i5.walmartimages.com/dfw/4ff9c6c9-4cbf/k2-_19bccbbb-b02e-43ca-b47f-54e066d59b36.v1.png,c1FLfZDMzyFBzsv-RoMGX,other,zmUUUG-R0VFbyRtBSWl9G
+variables.p13n.lazyModules[9].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,7ZG2HCu0RuCUQnZTttdq2
+variables.p13n.lazyModules[9].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,CEEIdTmpRFAUXuAl_hzjc
+variables.p13n.lazyModules[9].matchedTrigger.zone,contentZone22,c1FLfZDMzyFBzsv-RoMGX,other,3oDb3xstHR5HV-M2Vhyux
+variables.p13n.lazyModules[9].moduleId,a0675492-eac0-4c43-a88e-598ac8548789,c1FLfZDMzyFBzsv-RoMGX,other,NtqRmhMTTOyqUD1a9b7no
+variables.p13n.lazyModules[9].module_id,a0675492-eac0-4c43-a88e-598ac8548789,c1FLfZDMzyFBzsv-RoMGX,other,Ja_Ieukf6dWU1wMIoqwLn
+variables.p13n.lazyModules[9].name,Capital One Banner Web Module - Desktop - 2.4.22 - Device: Desktop Only,c1FLfZDMzyFBzsv-RoMGX,other,RAPwmT6UdMv8vyGAuPK_3
+variables.p13n.lazyModules[9].publishedDate,1666129241510,c1FLfZDMzyFBzsv-RoMGX,other,RVY0ALxeceYrhhlJYbxHI
+variables.p13n.lazyModules[9].status,published,c1FLfZDMzyFBzsv-RoMGX,other,zWugCq8xh-Eo9mZ_2So25
+variables.p13n.lazyModules[9].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,NhWNZYWn_6CjKyUOQoPas
+variables.p13n.lazyModules[9].triggers[0].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,T_mYOn_Ajb4N22nq_wLww
+variables.p13n.lazyModules[9].triggers[0].zone,contentZone22,c1FLfZDMzyFBzsv-RoMGX,other,GkMIMBzKFzReIOe6peooU
+variables.p13n.lazyModules[9].type,CapitalOneBanner,c1FLfZDMzyFBzsv-RoMGX,other,FyQpEJB_7r9OZHsIuCVn7
+variables.p13n.lazyModules[9].version,4,c1FLfZDMzyFBzsv-RoMGX,other,NgUQjHW6HEifwtqW8QQvC
+variables.p13n.lazyModules[10].configs.__typename,TempoWM_GLASSWWWDepartmentsGridConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,IzjA4SLmRQdGIkI5TVjA3
+variables.p13n.lazyModules[10].configs.categoriesHome[0].image.alt,Grocery,c1FLfZDMzyFBzsv-RoMGX,other,Xs0aCcKXUk3E_W94_93OK
+variables.p13n.lazyModules[10].configs.categoriesHome[0].image.assetId,7e36b4b7-6b6e-4930-f26a-52aef38f96b2,c1FLfZDMzyFBzsv-RoMGX,other,nKztWP331YGmjo8Eu1sWN
+variables.p13n.lazyModules[10].configs.categoriesHome[0].image.clickThrough.value,https://www.walmart.com/cp/976759,c1FLfZDMzyFBzsv-RoMGX,other,2rgMsYdXdd1VpMPmGNP0K
+variables.p13n.lazyModules[10].configs.categoriesHome[0].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-52ed/k2-_5cfe89bc-e57c-4519-b6ee-d8ce7f4b83c5.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,5yI4flr1KEbAyQUWYsbNC
+variables.p13n.lazyModules[10].configs.categoriesHome[0].name,Grocery,c1FLfZDMzyFBzsv-RoMGX,other,O4UxDdnKbko9FEr87ZZid
+variables.p13n.lazyModules[10].configs.categoriesHome[1].image.alt,Electronics,c1FLfZDMzyFBzsv-RoMGX,other,O13wbparDy6_haT5ERyKp
+variables.p13n.lazyModules[10].configs.categoriesHome[1].image.assetId,207d0362-a09b-49c3-bb43-ac24188609da,c1FLfZDMzyFBzsv-RoMGX,other,ZDNdusESAZhzvi5Hweica
+variables.p13n.lazyModules[10].configs.categoriesHome[1].image.clickThrough.value,https://www.walmart.com/cp/3944,c1FLfZDMzyFBzsv-RoMGX,other,zGSoRm_aXnA0dytPkWr0_
+variables.p13n.lazyModules[10].configs.categoriesHome[1].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-c2cd/k2-_d8aac3aa-e920-427a-b965-49bfce1fed14.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,oThEYoakOVTPIWcxaoFmu
+variables.p13n.lazyModules[10].configs.categoriesHome[1].name,Electronics,c1FLfZDMzyFBzsv-RoMGX,other,vgYAIS2p3DiUe0jHPwI31
+variables.p13n.lazyModules[10].configs.categoriesHome[2].image.alt,Home,c1FLfZDMzyFBzsv-RoMGX,other,hRxdoa-lDrGIyfXxJlzP6
+variables.p13n.lazyModules[10].configs.categoriesHome[2].image.assetId,49860d20-07dd-4101-25d8-3d448a66f352,c1FLfZDMzyFBzsv-RoMGX,other,-1XK0TybijdTpdOPFc9FE
+variables.p13n.lazyModules[10].configs.categoriesHome[2].image.clickThrough.value,https://www.walmart.com/cp/4044,c1FLfZDMzyFBzsv-RoMGX,other,XxutT5zPazCI_v7IUWTe1
+variables.p13n.lazyModules[10].configs.categoriesHome[2].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-362d/k2-_fb442a82-c9c1-410d-b9d9-e9d5fc84ef2d.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,vTG7OMAXBjAu3RoNAKSfs
+variables.p13n.lazyModules[10].configs.categoriesHome[2].name,Home,c1FLfZDMzyFBzsv-RoMGX,other,KBjSvKgZagf7NkhgyEN69
+variables.p13n.lazyModules[10].configs.categoriesHome[3].image.assetId,39d1ab60-e429-4a34-832d-077227339a80,c1FLfZDMzyFBzsv-RoMGX,other,ty4kLizy96Y8gg6TbcIU7
+variables.p13n.lazyModules[10].configs.categoriesHome[3].image.clickThrough.value,https://www.walmart.com/cp/5438,c1FLfZDMzyFBzsv-RoMGX,other,idfXMnwggNQ8WlDsxlh2j
+variables.p13n.lazyModules[10].configs.categoriesHome[3].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-7cc4/k2-_0125fcff-d6ae-459c-b7ab-95c1663c54ae.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,otqcpVztOOI5nRJ5yWOgX
+variables.p13n.lazyModules[10].configs.categoriesHome[4].image.alt,Personal Care,c1FLfZDMzyFBzsv-RoMGX,other,TS-V6DXxhTFPjUJ2KhUQ_
+variables.p13n.lazyModules[10].configs.categoriesHome[4].image.assetId,17bfd903-fdaf-40d0-9b79-5f08dd7ec6c4,c1FLfZDMzyFBzsv-RoMGX,other,k1wvR4IxcJjx_hiVa-iUq
+variables.p13n.lazyModules[10].configs.categoriesHome[4].image.clickThrough.value,https://www.walmart.com/cp/personal-care/1005862,c1FLfZDMzyFBzsv-RoMGX,other,tC71ToedYumyQsk_DTy7i
+variables.p13n.lazyModules[10].configs.categoriesHome[4].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-95e7/k2-_96d54d22-f89f-49d2-b1bb-464aedee6c9d.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,fZf610XwAaDC7XB2lGxVO
+variables.p13n.lazyModules[10].configs.categoriesHome[4].name,Personal Care,c1FLfZDMzyFBzsv-RoMGX,other,rv_i3od-2qIZnWtyuad0d
+variables.p13n.lazyModules[10].configs.categoriesHome[5].image.assetId,dcb0b86a-9bcf-4db0-9ea3-fa995c4271c6,c1FLfZDMzyFBzsv-RoMGX,other,2DvtyqKYnp8eJ56O99Tka
+variables.p13n.lazyModules[10].configs.categoriesHome[5].image.clickThrough.value,https://www.walmart.com/cp/976760,c1FLfZDMzyFBzsv-RoMGX,other,dLk0n0i8mNhTGWQiNXhex
+variables.p13n.lazyModules[10].configs.categoriesHome[5].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-e14b/k2-_a7cfc684-e979-4006-8497-59da0fd714f9.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,QgOxCvxRwycM1kq2DKwK2
+variables.p13n.lazyModules[10].configs.categoriesHome[6].image.alt,Household Essentials,c1FLfZDMzyFBzsv-RoMGX,other,wN3yCYsPzXdlj7gyIyb9L
+variables.p13n.lazyModules[10].configs.categoriesHome[6].image.assetId,220f06f8-3784-43e4-a598-25eb68ad8c21,c1FLfZDMzyFBzsv-RoMGX,other,N3zVCZxI5Z3SDAS7-JLxn
+variables.p13n.lazyModules[10].configs.categoriesHome[6].image.clickThrough.value,https://www.walmart.com/cp/1115193,c1FLfZDMzyFBzsv-RoMGX,other,ngF9Q3TGNEtOLYZdu4d-h
+variables.p13n.lazyModules[10].configs.categoriesHome[6].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-e0ee/k2-_551b401e-73b8-49cc-a5cd-1fcbf0f8ecc8.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,kfs3GjLjypCcnAgtQTFXu
+variables.p13n.lazyModules[10].configs.categoriesHome[6].name,Household Essentials,c1FLfZDMzyFBzsv-RoMGX,other,4HodEHgOEikTStFLt3vmo
+variables.p13n.lazyModules[10].configs.categoriesHome[7].image.alt,Home Improvement,c1FLfZDMzyFBzsv-RoMGX,other,7AZjUrvBdN75jN053ihKx
+variables.p13n.lazyModules[10].configs.categoriesHome[7].image.assetId,519759bc-5664-4285-8157-184d0efb4be0,c1FLfZDMzyFBzsv-RoMGX,other,XtOWzWqUwevh-bnI4elQY
+variables.p13n.lazyModules[10].configs.categoriesHome[7].image.clickThrough.value,https://www.walmart.com/cp/home-improvement/1072864,c1FLfZDMzyFBzsv-RoMGX,other,eTfV31HrraQtwKljggLCd
+variables.p13n.lazyModules[10].configs.categoriesHome[7].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-b9fa/k2-_ea97dda3-e54d-468b-afac-0ae83639c5f3.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,WazGm0A7cGKQPqTPX8b84
+variables.p13n.lazyModules[10].configs.categoriesHome[7].name,Home Improvement,c1FLfZDMzyFBzsv-RoMGX,other,GwJZPBDkjYTySjP4OjaF1
+variables.p13n.lazyModules[10].configs.displayMode,full,c1FLfZDMzyFBzsv-RoMGX,other,ddGmy6H9KxYdKgXReLy2s
+variables.p13n.lazyModules[10].configs.headingText,Your favorite departments,c1FLfZDMzyFBzsv-RoMGX,other,JIhvFC0-y9JJRFkNhcHAa
+variables.p13n.lazyModules[10].configs.viewAllLink.clickThrough.value,/all-departments,c1FLfZDMzyFBzsv-RoMGX,other,7MUYOQP4w9HXFybLlamIE
+variables.p13n.lazyModules[10].configs.viewAllLink.title,View all,c1FLfZDMzyFBzsv-RoMGX,other,1XItSSzTtw59jodFqn8kG
+variables.p13n.lazyModules[10].configs.viewAllLink.uid,bdHLpOav,c1FLfZDMzyFBzsv-RoMGX,other,ZsQx_o_FS0W8S1dpyY-fX
+variables.p13n.lazyModules[10].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,flqdS1SNH1D46s01lgbJM
+variables.p13n.lazyModules[10].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,fsozktBSQFP_1eRvwNVjK
+variables.p13n.lazyModules[10].matchedTrigger.zone,contentZone21,c1FLfZDMzyFBzsv-RoMGX,other,AWrt4UZkwQcEoi9Wh2ACR
+variables.p13n.lazyModules[10].moduleId,008694c8-1038-4c72-955f-225d905f7012,c1FLfZDMzyFBzsv-RoMGX,other,06GIwiN3jhAhzH94Gm1EM
+variables.p13n.lazyModules[10].module_id,008694c8-1038-4c72-955f-225d905f7012,c1FLfZDMzyFBzsv-RoMGX,other,2D5ClWlguphYGsLsR-ZsV
+variables.p13n.lazyModules[10].name,Departments Grid Module - mWeb/Desktop - 9.1.22 (Product images),c1FLfZDMzyFBzsv-RoMGX,other,slrzffp7l83ff_X4TUhSy
+variables.p13n.lazyModules[10].publishedDate,1670883913596,c1FLfZDMzyFBzsv-RoMGX,other,m4sdX1Z-Zq6kCvqWCqZO_
+variables.p13n.lazyModules[10].status,published,c1FLfZDMzyFBzsv-RoMGX,other,Uz_TOaZtfuTnBWf3QJqGC
+variables.p13n.lazyModules[10].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,rx0o8DHTitlys3ICzKkSC
+variables.p13n.lazyModules[10].triggers[0].pageType,Homepage,c1FLfZDMzyFBzsv-RoMGX,other,OjKjs-NPkmA0cqE4DpLqZ
+variables.p13n.lazyModules[10].triggers[0].zone,contentZone14,c1FLfZDMzyFBzsv-RoMGX,other,oBhCQ94MoPUUk8lH7pxd2
+variables.p13n.lazyModules[10].triggers[1].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,ZpEQ09XafFWsu_Xm31lBs
+variables.p13n.lazyModules[10].triggers[1].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,bVE_SThNdSa2dfJcCDBsJ
+variables.p13n.lazyModules[10].triggers[1].zone,contentZone21,c1FLfZDMzyFBzsv-RoMGX,other,3-G5Odyw07hg6dBaLm6um
+variables.p13n.lazyModules[10].type,DepartmentsGrid,c1FLfZDMzyFBzsv-RoMGX,other,4Gk88PjWIiRfINSnhuH8u
+variables.p13n.lazyModules[10].version,6,c1FLfZDMzyFBzsv-RoMGX,other,BnUyJYRgfU-bu0Uo3iQdr
+variables.p13n.lazyModules[11].configs.__typename,TempoWM_GLASSWWWHubSpokes4x1Configs,c1FLfZDMzyFBzsv-RoMGX,other,aI1cVj0pZTPzfULeKq67D
+variables.p13n.lazyModules[11].configs.categories4x1[0].image.alt,Fashion from ten dollars. ,c1FLfZDMzyFBzsv-RoMGX,other,ykTVw39j-2OmzxUDGrvDJ
+variables.p13n.lazyModules[11].configs.categories4x1[0].image.assetId,c75d8939-1867-4048-830b-826730c70454,c1FLfZDMzyFBzsv-RoMGX,other,HY4mukGuU3nq6rMemrpET
+variables.p13n.lazyModules[11].configs.categories4x1[0].image.clickThrough.value,/shop/deals/clothing-and-accessories,c1FLfZDMzyFBzsv-RoMGX,other,AWty4npzjSuGvCWAAhw7s
+variables.p13n.lazyModules[11].configs.categories4x1[0].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-6889/k2-_7cb00d1f-dc73-4942-8e90-1456064cdf3c.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,_lPHZZX_xmJXSHJFo37YM
+variables.p13n.lazyModules[11].configs.categories4x1[0].name,Fashion from $10,c1FLfZDMzyFBzsv-RoMGX,other,0-0rUc3wrflMMCRZQt70Q
+variables.p13n.lazyModules[11].configs.categories4x1[1].image.alt,Shop thirty percent off select beauty,c1FLfZDMzyFBzsv-RoMGX,other,ytcmaftL96UrkBs5YmJTy
+variables.p13n.lazyModules[11].configs.categories4x1[1].image.assetId,dae8251f-fde7-429a-b9ca-7dfe49f4bc64,c1FLfZDMzyFBzsv-RoMGX,other,1CeHmWTn64fwzaT9ixoDm
+variables.p13n.lazyModules[11].configs.categories4x1[1].image.clickThrough.value,/shop/deals/beauty-and-grooming,c1FLfZDMzyFBzsv-RoMGX,other,pduyZs_gSJUNELtJItCw6
+variables.p13n.lazyModules[11].configs.categories4x1[1].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-92f9/k2-_68b57481-ff39-4486-ba81-dbd5150f8ecd.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,g4y_9XT5ENFk1i60IA-KR
+variables.p13n.lazyModules[11].configs.categories4x1[1].name,30% off select beauty,c1FLfZDMzyFBzsv-RoMGX,other,3y5yVmbnc9KilDYz3NHYL
+variables.p13n.lazyModules[11].configs.categories4x1[2].image.alt,Shop forty percent off select toys,c1FLfZDMzyFBzsv-RoMGX,other,RGhSzKOiiObl0QNC-auqK
+variables.p13n.lazyModules[11].configs.categories4x1[2].image.assetId,7b19ee0e-ca0b-4984-9032-bc6d111d13ff,c1FLfZDMzyFBzsv-RoMGX,other,TQQ6U6mX_bBnnofcnD-mH
+variables.p13n.lazyModules[11].configs.categories4x1[2].image.clickThrough.value,/shop/deals/toys,c1FLfZDMzyFBzsv-RoMGX,other,L__G8fKmB-5WNZ2qjv-tO
+variables.p13n.lazyModules[11].configs.categories4x1[2].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-1231/k2-_1e4cb92d-8680-4992-b32f-4e3534c4352e.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,RXXMlG8aKEMi_pDTxByE1
+variables.p13n.lazyModules[11].configs.categories4x1[2].name,40% off select toys,c1FLfZDMzyFBzsv-RoMGX,other,dkpNmE6xRzBILr9rKuEV-
+variables.p13n.lazyModules[11].configs.categories4x1[3].image.alt,Shop all,c1FLfZDMzyFBzsv-RoMGX,other,f-QIrYrDmXQHxH38IFkwP
+variables.p13n.lazyModules[11].configs.categories4x1[3].image.assetId,6697e4cb-07b8-4a16-b0b8-309afbeb6e31,c1FLfZDMzyFBzsv-RoMGX,other,vUd6RdHEGlAUwdOfHf8xT
+variables.p13n.lazyModules[11].configs.categories4x1[3].image.clickThrough.value,/shop/deals,c1FLfZDMzyFBzsv-RoMGX,other,QBlp1wP-jv3H-ObvEfC3H
+variables.p13n.lazyModules[11].configs.categories4x1[3].image.src,https://i5.walmartimages.com/dfw/4ff9c6c9-9f06/k2-_3e836178-5c8a-4e11-8503-167734106674.v1.jpg,c1FLfZDMzyFBzsv-RoMGX,other,SJxucQr3N5ihaHY9rsMEq
+variables.p13n.lazyModules[11].configs.categories4x1[3].name,Shop all,c1FLfZDMzyFBzsv-RoMGX,other,bNOb2Mp6O55P05B4T_-Rs
+variables.p13n.lazyModules[11].configs.headingText,For every budget,c1FLfZDMzyFBzsv-RoMGX,other,t4nfp9uwc6L7LQdN0WUHX
+variables.p13n.lazyModules[11].configs.suppressCTA,False,c1FLfZDMzyFBzsv-RoMGX,other,PMPaueyCVEFDsAoBs26jk
+variables.p13n.lazyModules[11].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,z-UsuKHZaG8iwc7Uzqg-0
+variables.p13n.lazyModules[11].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,4inf5maNpfblqmw4v-qkT
+variables.p13n.lazyModules[11].matchedTrigger.zone,contentZone19,c1FLfZDMzyFBzsv-RoMGX,other,tNsW4NkiFM1eqB3o1KX_O
+variables.p13n.lazyModules[11].moduleId,5c6e13f0-564f-4d77-97b8-bae23e1f4dc8,c1FLfZDMzyFBzsv-RoMGX,other,PUhDuh-t3caiGOB0wISFY
+variables.p13n.lazyModules[11].module_id,5c6e13f0-564f-4d77-97b8-bae23e1f4dc8,c1FLfZDMzyFBzsv-RoMGX,other,s1jyLUWwBPNQspbeC8WRK
+variables.p13n.lazyModules[11].name,HubSpoke 3: 4x1 Module - For every budget: Fashion/ Beauty/ Toys/ Shop all - Desktop/mWeb - 2.10.23,c1FLfZDMzyFBzsv-RoMGX,other,7BBuDShJsJHBBkNKYQTMW
+variables.p13n.lazyModules[11].publishedDate,1675702587024,c1FLfZDMzyFBzsv-RoMGX,other,mTZqfNFmqb3w9c--45St9
+variables.p13n.lazyModules[11].status,published,c1FLfZDMzyFBzsv-RoMGX,other,9OxYcHeamNFBM0mtO8lWS
+variables.p13n.lazyModules[11].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,ZL4D7cjgJBA9HsCqnw--L
+variables.p13n.lazyModules[11].triggers[0].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,lJ2LPQZq6UpbCPxpX6fAz
+variables.p13n.lazyModules[11].triggers[0].zone,contentZone19,c1FLfZDMzyFBzsv-RoMGX,other,Lp_zzDGppRPxzmLFK_i5t
+variables.p13n.lazyModules[11].triggers[1].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,jy6N-2mZ1q1CSFynjFfjA
+variables.p13n.lazyModules[11].triggers[1].pageType,Homepage,c1FLfZDMzyFBzsv-RoMGX,other,1voL2zujZ-Xt7uodGH1jK
+variables.p13n.lazyModules[11].triggers[1].zone,contentZone16,c1FLfZDMzyFBzsv-RoMGX,other,6m5DLCO5qGaRcpDIyCUqq
+variables.p13n.lazyModules[11].type,HubSpokes4x1,c1FLfZDMzyFBzsv-RoMGX,other,eMx5cJo1pVWT0nAx7GoNv
+variables.p13n.lazyModules[11].version,2,c1FLfZDMzyFBzsv-RoMGX,other,DeXaYmGXqmw4dsr0Xg7Xa
+variables.p13n.lazyModules[12].configs.__typename,TempoWM_GLASSWWWItemCarouselConfigsV1,c1FLfZDMzyFBzsv-RoMGX,other,SVXaPCIakIqLD-J3oG8ih
+variables.p13n.lazyModules[12].configs.title,Reset your bedroom,c1FLfZDMzyFBzsv-RoMGX,other,OLbJCN3fL9K9K5dxGxqUW
+variables.p13n.lazyModules[12].configs.viewAllLink.clickThrough.type,url,c1FLfZDMzyFBzsv-RoMGX,other,x0E0JOKBClZwgOGT-4Fl6
+variables.p13n.lazyModules[12].configs.viewAllLink.clickThrough.value,/browse/home-bedroom-refresh/0/0?_refineresult=true&_be_shelf_id=2766774&search_sort=100&facet=shelf_id%3A2766774,c1FLfZDMzyFBzsv-RoMGX,other,vWoi_MVhgATdrdrZNSlfP
+variables.p13n.lazyModules[12].configs.viewAllLink.linkText,View all,c1FLfZDMzyFBzsv-RoMGX,other,Nwm80-FUCOEId3Y6oOk8k
+variables.p13n.lazyModules[12].configs.viewAllLink.title,View all,c1FLfZDMzyFBzsv-RoMGX,other,ugjxYkF8EPn8Y21NFterp
+variables.p13n.lazyModules[12].matchedTrigger.inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,T5ek0bJdao60fFS5uwi79
+variables.p13n.lazyModules[12].matchedTrigger.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,MY3jFJfo4SS_C8GqdsNWZ
+variables.p13n.lazyModules[12].matchedTrigger.zone,contentZone24,c1FLfZDMzyFBzsv-RoMGX,other,3kZOCeE0XoJOTmuZ7OSSy
+variables.p13n.lazyModules[12].moduleId,dc1e7d95-a2b7-41c6-b064-19e241300051,c1FLfZDMzyFBzsv-RoMGX,other,g4x-EkhQssaIc-c9FFefF
+variables.p13n.lazyModules[12].module_id,dc1e7d95-a2b7-41c6-b064-19e241300051,c1FLfZDMzyFBzsv-RoMGX,other,XIrOPN8RpR4LSNRnBJI3o
+variables.p13n.lazyModules[12].name,Was used with Mini Hero A/B test - Default #1: manual shelf - Zone 18) Desktop - Item Carousel - Reset Your Bedroom - 5.2.22,c1FLfZDMzyFBzsv-RoMGX,other,UlivzY-ekUx_KGhxUa-2T
+variables.p13n.lazyModules[12].publishedDate,1666129220150,c1FLfZDMzyFBzsv-RoMGX,other,fxYAsX6g_u8vdRd_v1Wz9
+variables.p13n.lazyModules[12].status,published,c1FLfZDMzyFBzsv-RoMGX,other,vwpG1prUWAlrsbmz-hhsq
+variables.p13n.lazyModules[12].triggers[0].inheritable,false,c1FLfZDMzyFBzsv-RoMGX,other,7Yvi3iAMAJ2_czCSP48Lj
+variables.p13n.lazyModules[12].triggers[0].pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,BTre0_YVXbK-7nzBMc3Re
+variables.p13n.lazyModules[12].triggers[0].zone,contentZone24,c1FLfZDMzyFBzsv-RoMGX,other,5Jc1c5GSovUNmGVkZNwQB
+variables.p13n.lazyModules[12].type,ItemCarousel,c1FLfZDMzyFBzsv-RoMGX,other,V1cpQgcyibVhvjPsfjio3
+variables.p13n.lazyModules[12].version,7,c1FLfZDMzyFBzsv-RoMGX,other,zMjf_YvKG_dOf-Y5Ivo33
+variables.p13n.p13NCallType,BTF,c1FLfZDMzyFBzsv-RoMGX,other,DQZ-tBAgFpIvt1dGGpQhz
+variables.p13n.p13nMetadata,TFo09QAAAPAdeyJ1c2VkTW9kZWxzIjp7IkdsYXNzSG9tZXBhZ2VJdGVtTW9kdWxlcyI6WyIPAPAvU2hvd0Nhc2VfOThhMGJhZTEtZGI1Ni00NGQ1LWI0YmEtODc0YWM0ZGU4NWIyX2l0ZW1zIl0sIkhlcm9Qb3ZGAGRBdGhlbmERAJBdfSwic2hvd25dAAFmAPUkMTE1NjIxNDI1IiwiNWUyYWJmNmItOWU5OC00ZjQ2LWEzYzUtNzQ0ZThhYzA4MWNkIiwiAwDwGGFlMzY4Y2JmLTExMDEtNGNlMC1iYTBhLWU5ZGUzMTE4YzgwMSJdfQ==,c1FLfZDMzyFBzsv-RoMGX,other,dSdXORuUjlNQmnaoZKRTH
+variables.p13n.selectedIntent,,c1FLfZDMzyFBzsv-RoMGX,other,w76xv1hC2cyo5U52pVwgF
+variables.p13n.userClientInfo.deviceType,desktop,c1FLfZDMzyFBzsv-RoMGX,other,DSZ6OBbuB0Fl6njKgzefY
+variables.pageType,HomePageDesktop,c1FLfZDMzyFBzsv-RoMGX,other,ho_SCfLKG2rm_wSkloyqT
+variables.tenant,WM_GLASS,c1FLfZDMzyFBzsv-RoMGX,other,ymbU1cHO8NnYBUTh2Qhbi
+variables.detailed,false,99IiWPxfju7QtakRq23vB,other,Wh4deZgFiIOAH2_Y0LAIy
+variables.enableACCScheduling,true,99IiWPxfju7QtakRq23vB,other,Yt38_P2wVR2XGuDG-jVGO
+variables.enableAEBadge,false,99IiWPxfju7QtakRq23vB,other,-A6CNjd94S2fm9NzIHSxa
+variables.enableBadges,false,99IiWPxfju7QtakRq23vB,other,l7tyHBBPl_Csva1EO63RZ
+variables.enableBenefitSavings,false,99IiWPxfju7QtakRq23vB,other,ylVRUMMgWSNgHNb2IBvUU
+variables.enableCartBookslotShortcut,false,99IiWPxfju7QtakRq23vB,other,M8VVXSlQDK3a3rKISajaC
+variables.enableCartLevelMSI,false,99IiWPxfju7QtakRq23vB,other,38bIliWt1VNyz7shkjNvd
+variables.enableExpressReservationEndTime,false,99IiWPxfju7QtakRq23vB,other,QJhNg-cW4_HBXqVFwZH5J
+variables.enableFutureInventoryCartBookslot,false,99IiWPxfju7QtakRq23vB,other,GmC1iKZJBLS1irF2bZQmb
+variables.enableGicEngagement,true,99IiWPxfju7QtakRq23vB,other,FX4HZhX2VLAUWk2y282ZJ
+variables.enableIntentControl,false,99IiWPxfju7QtakRq23vB,other,Z22FJXg6Ayd4CYRlUMvGb
+variables.enableMsiMci,false,99IiWPxfju7QtakRq23vB,other,lXfudCECdp8IRMzFkl70U
+variables.enableOrderLimit,false,99IiWPxfju7QtakRq23vB,other,CuY-trg0p8EI2_Gnm9RIw
+variables.enablePickupNotAvailable,false,99IiWPxfju7QtakRq23vB,other,PF19oUXcQYoCC8Nf80oK5
+variables.enableReturnsLabel,false,99IiWPxfju7QtakRq23vB,other,JvU4nfSwekL8Bce6Fgnjd
+variables.enableSpendLimit,false,99IiWPxfju7QtakRq23vB,other,onSttZjpVFsMBqt0xpZvR
+variables.enableStarRatings,false,99IiWPxfju7QtakRq23vB,other,Cm6sFQ3Jy-aLtPZSMDLfB
+variables.enableWalmartPlusFreeDiscountedExpress,true,99IiWPxfju7QtakRq23vB,other,W5b-2BlgYzjqgrZ_UMi6_
+variables.enableWeightedItems,false,99IiWPxfju7QtakRq23vB,other,xy_jW6oqZo5enBxZ4pH6x
+variables.enableWplusCashback,false,99IiWPxfju7QtakRq23vB,other,zi5LRMwd_71zgmZbyM0dI
+variables.includeExpressSla,true,99IiWPxfju7QtakRq23vB,other,upsABSp0_rB8PkCN9Cu_g
+variables.includeGrandAndSavedSubtotal,false,99IiWPxfju7QtakRq23vB,other,lkv1iY6DQr7U76_M1wMRA
+variables.includeImageAndName,false,99IiWPxfju7QtakRq23vB,other,5JwMUJ4AC8T47JDuf9NoR
+variables.includeOtherDetailed,true,99IiWPxfju7QtakRq23vB,other,LuE9rJ0gRtS7GvY4sqYC4
+variables.includePartialFulfillmentSwitching,false,99IiWPxfju7QtakRq23vB,other,TxQ5S9Cpws-xQihGZSiKn
+variables.includeQueueing,false,99IiWPxfju7QtakRq23vB,other,OyI-j2L114cTf7BhCI5ap
+variables.includeWeeklyReservation,false,99IiWPxfju7QtakRq23vB,other,HCfzCLc4y22aEiXv8HsKA
+variables.input.cartId,ca7c0e8e-92ae-4579-b8f6-572a633ca09f,99IiWPxfju7QtakRq23vB,other,QmwsQVy72ivIL5-nCHSgh
+variables.input.enableCartSplitClarity,false,99IiWPxfju7QtakRq23vB,other,lPNyV8e4OMde33jcoPIjj
+variables.input.enableLiquorBox,true,99IiWPxfju7QtakRq23vB,other,uzISE2kQTRmJF8vuh0v9F
+variables.input.items[0].lineItemId,1T4KDWVMSMJ8,99IiWPxfju7QtakRq23vB,other,keXy4_xGDoEsc0O9vshbS
+variables.input.items[0].name,Beltox Fine Men’s Casual Leather Jeans Belts 1 1/2” Wide 4MM Thick Alloy Prong Buckle Work Dress Belt for Men,99IiWPxfju7QtakRq23vB,other,-VXMJxMIohmSPOXbL1crp
+variables.input.items[0].offerId,3BCF3916BCE540D1862822F466E5FDF4,99IiWPxfju7QtakRq23vB,other,vYU_WpAoNKAtxRrRI0bSt
+variables.input.items[0].quantity,1,99IiWPxfju7QtakRq23vB,other,S8TBVCo-GFB5Khamkki0m
+variables.input.items[0].usItemId,771888182,99IiWPxfju7QtakRq23vB,other,z84MKVdR-vhibklG8iWCK
+variables.detailed,true,A_N9buGgpklNI40ihSLs9,other,tkepNSLmotV3ecZy8zJ91
+variables.enableACCScheduling,true,A_N9buGgpklNI40ihSLs9,other,qd0JGCYFLmtbNkFqHPORy
+variables.enableAEBadge,true,A_N9buGgpklNI40ihSLs9,other,CaMu3hm6P1QKlvRVLjild
+variables.enableBadges,true,A_N9buGgpklNI40ihSLs9,other,sleoli8pDzuEOLWyMCTfi
+variables.enableBenefitSavings,false,A_N9buGgpklNI40ihSLs9,other,ZLanCsNVAyuEyi4YsXURx
+variables.enableCartBookslotShortcut,false,A_N9buGgpklNI40ihSLs9,other,G6QJuMMUfNal7ZXwLBIqy
+variables.enableCartLevelMSI,false,A_N9buGgpklNI40ihSLs9,other,Vuc78YnnNDXbK0oCSnSBu
+variables.enableExpressReservationEndTime,false,A_N9buGgpklNI40ihSLs9,other,-uM7K6ki1vkTdqs5Pqk1d
+variables.enableFutureInventoryCartBookslot,false,A_N9buGgpklNI40ihSLs9,other,duXPsXF05_9aptM5ZLooC
+variables.enableGicEngagement,true,A_N9buGgpklNI40ihSLs9,other,dD28_UQIxauDGNhXjCdqR
+variables.enableIntentControl,false,A_N9buGgpklNI40ihSLs9,other,LRGtV-DHRVPgoPgcO_99t
+variables.enableMsiMci,false,A_N9buGgpklNI40ihSLs9,other,ym6TwWKGXR9fSh-4KqFwL
+variables.enableOrderLimit,true,A_N9buGgpklNI40ihSLs9,other,bcX3YD5drXQ3LhYPCZcOU
+variables.enablePickupNotAvailable,false,A_N9buGgpklNI40ihSLs9,other,qNosmjm5g_19PV5sBoVjl
+variables.enableReturnsLabel,true,A_N9buGgpklNI40ihSLs9,other,z7nbZ7MOa1sQHl15Rq08G
+variables.enableSpendLimit,false,A_N9buGgpklNI40ihSLs9,other,hVMunIAZsDO48kIcKOVIC
+variables.enableStarRatings,false,A_N9buGgpklNI40ihSLs9,other,mSuB_c0RUb0LbFqayMScy
+variables.enableWalmartPlusFreeDiscountedExpress,true,A_N9buGgpklNI40ihSLs9,other,V-fbjxLaSK696zSq2hPEv
+variables.enableWeightedItems,false,A_N9buGgpklNI40ihSLs9,other,M67CysmJC1Dpo7c4ySXj0
+variables.enableWplusCashback,false,A_N9buGgpklNI40ihSLs9,other,_ah9Qx6b0GZHVKLMEUbaK
+variables.includeExpressSla,true,A_N9buGgpklNI40ihSLs9,other,XLw2zOA1kqV-lL_dc1lYO
+variables.includeGrandAndSavedSubtotal,true,A_N9buGgpklNI40ihSLs9,other,gSM09A-BIX892LbWBdCgh
+variables.includeImageAndName,true,A_N9buGgpklNI40ihSLs9,other,_fbVc96XbevGty42aP2T9
+variables.includeOtherDetailed,true,A_N9buGgpklNI40ihSLs9,other,x-M7zesUCOkZQwPo9L1IU
+variables.includePartialFulfillmentSwitching,false,A_N9buGgpklNI40ihSLs9,other,9CshP4QzwFYNfhYpDF8-p
+variables.includeQueueing,true,A_N9buGgpklNI40ihSLs9,other,xUG9YyJsEWW78AmVlupZO
+variables.includeWeeklyReservation,true,A_N9buGgpklNI40ihSLs9,other,yN8ucLhqoAPDW7kc7VG9u
+variables.input.cartId,ca7c0e8e-92ae-4579-b8f6-572a633ca09f,A_N9buGgpklNI40ihSLs9,other,OtFsFz_R1Hh3n1XJ6gJJQ
+variables.input.cartLeanMode,false,A_N9buGgpklNI40ihSLs9,other,JTNaBgKcfJ3caTfHTnTIF
+variables.input.enableCartSplitClarity,false,A_N9buGgpklNI40ihSLs9,other,2XkeHN5O3ilB96iKmuF6q
+variables.input.enableLiquorBox,true,A_N9buGgpklNI40ihSLs9,other,S3i-BF3T2mf31GNe1XVoh
+variables.input.items[0].name,The Get Women's Pintuck Ruffle Top,A_N9buGgpklNI40ihSLs9,other,doz04XIoouyZUzCpIe64G
+variables.input.items[0].offerId,F6A06B347EBD48DA8C3227464814C0A6,A_N9buGgpklNI40ihSLs9,other,lxEIOb6F0qaQKSDdukX8o
+variables.input.items[0].quantity,0,A_N9buGgpklNI40ihSLs9,other,QamIPuYpbuElz-vWuFBwg
+variables.input.items[0].usItemId,1737333733,A_N9buGgpklNI40ihSLs9,other,592A-w-AFRtWJJOUlGDBS
+variables.charityOfChoiceEnabled,true,wZcrXLr2alby88z4xePdr,other,tmcnmUEW7Fdo9XKamoGEc
+variables.createContractInput.cartId,ca7c0e8e-92ae-4579-b8f6-572a633ca09f,wZcrXLr2alby88z4xePdr,other,wV9iBvpdw2VL-AYPxHr7g
+variables.createContractInput.isClarityInSignupEnabled,false,wZcrXLr2alby88z4xePdr,other,HFhMXQHOk4FmYVbPTNCGB
+variables.enableAccessPoint,false,wZcrXLr2alby88z4xePdr,other,ysVng5SIijiwe1Hp1FY_n
+variables.enableCartLevelMSI,false,wZcrXLr2alby88z4xePdr,other,v-VgWoQYl3m0fuUle8ckk
+variables.enableInHomeDeliveryInstructions,false,wZcrXLr2alby88z4xePdr,other,kjZa7K3VB49Cp_VGAFNwo
+variables.enableMsiMci,false,wZcrXLr2alby88z4xePdr,other,JCkMDkgq9hPspf7oVhCoP
+variables.enablePaidSignupBanner,false,wZcrXLr2alby88z4xePdr,other,4POGkM5f9KT9hF6SKJDjx
+variables.enablePhotoMigration,false,wZcrXLr2alby88z4xePdr,other,BD9mA4g1qL1BU_3DVYWyF
+variables.enableTYPinDrop,true,wZcrXLr2alby88z4xePdr,other,CFjv6J5sQ9zybpqp3sosN
+variables.enableTaxBreakdown,false,wZcrXLr2alby88z4xePdr,other,YrhfVQO0geiYtzWaDNMNj
+variables.enableWalmartPlusFreeDiscountedExpress,true,wZcrXLr2alby88z4xePdr,other,7eFaCsZPSbLn5JseycC7u
+variables.isACCEnabled,true,wZcrXLr2alby88z4xePdr,other,2tXpZXadajH3X-ieU4sCL
+variables.promosEnable,true,wZcrXLr2alby88z4xePdr,other,u9iH5eb0b1D9qHkR-Y2v7
+variables.wplusEnabled,true,wZcrXLr2alby88z4xePdr,other,2ieQclmjctZFDnSEhb2Sr
+variables.wplusSplashSignupEnabled,true,wZcrXLr2alby88z4xePdr,other,qP9VQMltaiUVK5uYisLoW
+variables.fetchMXFields,false,9r4fpxu6JP6BKqcRAf9y3,other,I5RjusEd-o00b-M5wc_CF
+variables.input.address.addressLineOne,1131 Washington Street,9r4fpxu6JP6BKqcRAf9y3,personal_information,mxedyj493pIf1G2zzQ4CT,mxedyj493pIf1G2zzQ4CT
+variables.input.address.addressLineTwo,4,9r4fpxu6JP6BKqcRAf9y3,personal_information,kWjTMyKKR8XiPiyAWAtrh,kWjTMyKKR8XiPiyAWAtrh
+variables.input.address.city,Hoboken,9r4fpxu6JP6BKqcRAf9y3,personal_information,syUeQBsXCFV7zFGdzVVdA,syUeQBsXCFV7zFGdzVVdA
+variables.input.address.latitude,undefined,9r4fpxu6JP6BKqcRAf9y3,other,mgfUadUVEBTUg0kO1MAgb
+variables.input.address.longitude,undefined,9r4fpxu6JP6BKqcRAf9y3,other,FY8uRtq0RylBlmsYMMbTS
+variables.input.address.postalCode,07030,9r4fpxu6JP6BKqcRAf9y3,personal_information,qInLBkp5vQ49kjMXisWiM,qInLBkp5vQ49kjMXisWiM
+variables.input.address.state,NJ,9r4fpxu6JP6BKqcRAf9y3,personal_information,tlzomrxEmySh2i1WL5BzS,tlzomrxEmySh2i1WL5BzS
+variables.input.firstName,Matt,9r4fpxu6JP6BKqcRAf9y3,personal_information,_P2BEVJoJ7RbFwtC8KXxl,_P2BEVJoJ7RbFwtC8KXxl
+variables.input.isDefault,false,9r4fpxu6JP6BKqcRAf9y3,other,fRFFvnr5M2HfoG5PX3Nap
+variables.input.lastName,Mandelbaum,9r4fpxu6JP6BKqcRAf9y3,personal_information,NAbgLB48-XL2u_KemuH0Y,NAbgLB48-XL2u_KemuH0Y
+variables.input.overrideAvs,false,9r4fpxu6JP6BKqcRAf9y3,other,y70ZLEq9FxpCw-0rWmUsV
+variables.input.phone,9083002617,9r4fpxu6JP6BKqcRAf9y3,personal_information,W-Kt6lS0GeJfoRoV5yVTE,W-Kt6lS0GeJfoRoV5yVTE
+variables.charityOfChoiceEnabled,true,vIrNp64g-SDBXzHcgspV5,other,841Z0gOfbuF3E3pQBPzto
+variables.enableInHomeDeliveryInstructions,false,vIrNp64g-SDBXzHcgspV5,other,UUrVUpnPQOx7BR597aUw4
+variables.enableWalmartPlusFreeDiscountedExpress,true,vIrNp64g-SDBXzHcgspV5,other,J75ttc9UF1pKgO2-TBsiM
+variables.input.addressId,393ab0d8-6202-497e-a11d-d4b6bb0aaf37,vIrNp64g-SDBXzHcgspV5,other,VVOcj9sFmkc3G9HLKyReC
+variables.input.cartId,ca7c0e8e-92ae-4579-b8f6-572a633ca09f,vIrNp64g-SDBXzHcgspV5,other,Np42IC3BHsvMz5YUN03BE
+variables.input.contractId,2892a5b0-e633-4211-8769-20309ed38151,vIrNp64g-SDBXzHcgspV5,other,S7CjgQOF-G4p0gILM4bYx
+variables.input.isGiftAddress,false,vIrNp64g-SDBXzHcgspV5,other,Aej_fYBDNj07EL7NfXWxd
+variables.isACCEnabled,true,vIrNp64g-SDBXzHcgspV5,other,4f0Yek0w8bZXvIgV2oqtx
+variables.promosEnable,true,vIrNp64g-SDBXzHcgspV5,other,YJkD6iUlII04DZ0yoAVQ5
+variables.wplusEnabled,true,vIrNp64g-SDBXzHcgspV5,other,IwMN77iETRM4kGmZ9BN26
+variables.wplusSplashSignupEnabled,true,vIrNp64g-SDBXzHcgspV5,other,86chVePdxbXfStjbYbfJk
+variables.action,SPLASH_VIEWED,28JqnpvQe_xp5X1w0w1mW,other,6iGkDjwsewof62ycSnEGb
+variables.fetchWalletCreditCardFragment,true,eAZAOdjnxxJYBrQ3mT6As,financial_information,GqiN2usKquJlbhyW1MMhy,GqiN2usKquJlbhyW1MMhy
+variables.input.address.addressLineOne,1131 Washington St,eAZAOdjnxxJYBrQ3mT6As,personal_information,3NCZiJnNheZO0s3nvdSG-,3NCZiJnNheZO0s3nvdSG-
+variables.input.address.addressLineTwo,Apt 4,eAZAOdjnxxJYBrQ3mT6As,personal_information,MXC9dU37Y_3VCJl2Nb8x3,MXC9dU37Y_3VCJl2Nb8x3
+variables.input.address.city,Hoboken,eAZAOdjnxxJYBrQ3mT6As,personal_information,Pw7Mwv4arl4j1N83n1dVC,Pw7Mwv4arl4j1N83n1dVC
+variables.input.address.postalCode,07030,eAZAOdjnxxJYBrQ3mT6As,personal_information,bKqfGfR_kgHg-xH4saJ0A,bKqfGfR_kgHg-xH4saJ0A
+variables.input.address.state,NJ,eAZAOdjnxxJYBrQ3mT6As,personal_information,LqFN7CwmpjMCK58OFJe_L,LqFN7CwmpjMCK58OFJe_L
+variables.input.cardType,VISA,eAZAOdjnxxJYBrQ3mT6As,financial_information,HY2DdEe1WexRWlz86xRyk,HY2DdEe1WexRWlz86xRyk
+variables.input.encryptedCVV,211,eAZAOdjnxxJYBrQ3mT6As,financial_information,RhUF0YKbC6Z27wShwqxUy,RhUF0YKbC6Z27wShwqxUy
+variables.input.encryptedPan,4400664148549174,eAZAOdjnxxJYBrQ3mT6As,financial_information,VbRIyuSxuZsHBj89Ntx_e,VbRIyuSxuZsHBj89Ntx_e
+variables.input.expiryMonth,11,eAZAOdjnxxJYBrQ3mT6As,financial_information,Pw655FVgOBtzgThBQZPo9,Pw655FVgOBtzgThBQZPo9
+variables.input.expiryYear,2027,eAZAOdjnxxJYBrQ3mT6As,financial_information,e4_Vush81rvGBVOJHgTgG,e4_Vush81rvGBVOJHgTgG
+variables.input.firstName,Matthew,eAZAOdjnxxJYBrQ3mT6As,personal_information,lLY6RKdR2EiD8K34QoJ6v,lLY6RKdR2EiD8K34QoJ6v
+variables.input.integrityCheck,f534288078e98230,eAZAOdjnxxJYBrQ3mT6As,other,WZuHL_d1FkFp68PB_9DBm
+variables.input.isDefault,true,eAZAOdjnxxJYBrQ3mT6As,other,rO6bVRnPp2efQHFHILQjI
+variables.input.keyId,6806beba,eAZAOdjnxxJYBrQ3mT6As,other,fWgcJowxbYbrOOy_ncv9B
+variables.input.lastName,Mandelbaum,eAZAOdjnxxJYBrQ3mT6As,personal_information,aq4HrMi5mvBoTr8KfPZFb,aq4HrMi5mvBoTr8KfPZFb
+variables.input.phase,0,eAZAOdjnxxJYBrQ3mT6As,other,rxIJAyJPpKdoUPPCKoTmp
+variables.input.phone,9083002617,eAZAOdjnxxJYBrQ3mT6As,personal_information,EQA8TTeb1rWtJ0oIyty4G,EQA8TTeb1rWtJ0oIyty4G
+variables.input.sourceFeature,ACCOUNT_PAGE,eAZAOdjnxxJYBrQ3mT6As,other,cBo-hapdv-Slf3Cy8hI_J
+variables.input.accountRefresh,true,F6BKDX8IwDFasBJmgDnAi,other,oabQqhtHnxIGe6OaPHPkI
+variables.input.contractId,2892a5b0-e633-4211-8769-20309ed38151,F6BKDX8IwDFasBJmgDnAi,other,LnQXOVc7HKePuijXn9Q0X
+variables.input.isAmendFlow,false,F6BKDX8IwDFasBJmgDnAi,other,v07lJ81CgSJczq46Vq_dP
+variables.input.payments[0].paymentType,CREDITCARD,F6BKDX8IwDFasBJmgDnAi,financial_information,a_idkN-ogJflbhn8_y9ob,a_idkN-ogJflbhn8_y9ob
+variables.input.payments[0].preferenceId,d93d1e3e-b589-48e0-8c4b-daacb285db1d,F6BKDX8IwDFasBJmgDnAi,other,eM1HIrbDzv6GHuNqkw0IH
+variables.input.tenderPlanId,bedfed7d-e6f7-4f09-8ca0-62050b09e387,F6BKDX8IwDFasBJmgDnAi,other,5jKHz80Qc67Hrwrzg5hk9
+variables.charityOfChoiceEnabled,true,74plaLkbc9OIod4P4djrf,other,H5yNEigKQOknXn1igAfxE
+variables.enablePhotoMigration,false,74plaLkbc9OIod4P4djrf,other,WGCqwNvo6HMZ-xiOxjls7
+variables.enableWalmartPlusFreeDiscountedExpress,true,74plaLkbc9OIod4P4djrf,other,pbKn5yKv4GXGC6VeobnE7
+variables.isACCEnabled,true,74plaLkbc9OIod4P4djrf,other,bk4ibbXdizmJqdzFIgS1v
+variables.onlyFetchCheckoutErrors,true,74plaLkbc9OIod4P4djrf,other,7Xy8u5MN52vye9jrn668M
+variables.placeOrderInput.acceptDonation,false,74plaLkbc9OIod4P4djrf,other,1FoibrpYDu8lCzjzVtm9a
+variables.placeOrderInput.acceptSMSOptInDisclosure,true,74plaLkbc9OIod4P4djrf,other,IFxRxR_cGE8IAZWDlNg69
+variables.placeOrderInput.acceptedAgreements,,74plaLkbc9OIod4P4djrf,other,cpRv_UILgZWmz2F_VFQvd
+variables.placeOrderInput.contractId,2892a5b0-e633-4211-8769-20309ed38151,74plaLkbc9OIod4P4djrf,other,fJrMust8aP7I3RbBpX_-E
+variables.placeOrderInput.deliveryDetails.deliveryInstructions,,74plaLkbc9OIod4P4djrf,other,IyxTmDkqiRxnspR0o5_s1
+variables.placeOrderInput.deliveryDetails.deliveryOption,LEAVE_AT_DOOR,74plaLkbc9OIod4P4djrf,other,R4pdEv2UmfT4M6867S5nC
+variables.placeOrderInput.emailAddress,mattrmandelbaum@gmail.com,74plaLkbc9OIod4P4djrf,personal_information,XOOLIl7mYswg7ktQKiKSi,XOOLIl7mYswg7ktQKiKSi
+variables.placeOrderInput.marketingEmailPref,false,74plaLkbc9OIod4P4djrf,other,fSPI_XnzVh6I5EOLGFJjj
+variables.placeOrderInput.mobileNumber,9083002617,74plaLkbc9OIod4P4djrf,personal_information,FVzDxCh5wuSCPz57Xyu8U,FVzDxCh5wuSCPz57Xyu8U
+variables.promosEnable,true,74plaLkbc9OIod4P4djrf,other,md6XgJ9KfZ58ujI664SR8
+variables.wplusEnabled,true,74plaLkbc9OIod4P4djrf,other,Z0JDMqi-BbsrOTeROPzoJ
